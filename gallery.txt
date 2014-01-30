@@ -1,0 +1,1811 @@
+SERVER artie
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="lt-ie9 lt-ie10 juggernaut notresponsive grid_940"> <![endif]-->
+<!--[if IE 9]> <html class="lt-ie10 juggernaut responsive grid_940"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="juggernaut responsive grid_940"> <!--<![endif]-->
+
+<head>
+  <meta name="MobileOptimized" content="320" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+<script type="text/javascript">
+// <![CDATA[
+  var URLs = {
+    'login':  'https://secure.marvel.com/user/login?referer=http%3A%2F%2Fmarvel.com%2Fnews%2Fcomics%2F2014%2F1%2F28%2F21840%2Fpeter_david_provides_a_prelude_to_captain_america_the_winter_soldier',
+    'signup': 'https://secure.marvel.com/user/register?referer=http%3A%2F%2Fmarvel.com%2Fnews%2Fcomics%2F2014%2F1%2F28%2F21840%2Fpeter_david_provides_a_prelude_to_captain_america_the_winter_soldier',
+    'comicReader': 'http://reader.marvel.com/#/issue/',
+    'rpxWidgetUrl': 'http://widget-cdn.rpxnow.com/js/lib/forge.marvel.com/widget.js',
+    'rpxWidgetUrlSecure': 'https://rpxnow.com/js/lib/forge.marvel.com/widget.js'
+  };
+
+ window.marvelJanrainTokenUrl = "https://marvel.com/my_account/social";
+ window.marvelJanrainAppId = "gofcnefdmbcgfcjpgide";
+ window.marvelJanrainAppUrl = "https://forge.marvel.com";
+// ]]>
+</script>
+
+        <meta name="twitter:title" content="Peter David Provides a Prelude to Captain America: The Winter Soldier" />
+        <meta name="og:title" content="Peter David Provides a Prelude to Captain America: The Winter Soldier" />
+        <meta name="title" content="Peter David Provides a Prelude to Captain America: The Winter Soldier" />
+        <meta name="description" content="The writer of Marvel’s latest Infinite Comic bridges a gap in the Marvel Cinematic Universe!" />
+        <meta name="twitter:description" content="The writer of Marvel’s latest Infinite Comic bridges a gap in the Marvel Cinematic Universe!" />
+        <meta name="og:description" content="The writer of Marvel’s latest Infinite Comic bridges a gap in the Marvel Cinematic Universe!" />
+        <meta name="twitter:site" content="@Marvel" />
+        <meta name="twitter:url" content="http://marvel.com/news/comics/2014/1/28/21840/peter_david_provides_a_prelude_to_captain_america_the_winter_soldier" />
+        <meta name="og:site_name" content="Marvel.com" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:creator" content="@Marvel" />
+        <meta name="twitter:image" content="http://x.annihil.us/u/prod/marvel/i/mg/a/10/52e7d7ed68b54/standard_medium.jpg" />
+        <meta property="og:image" content="http://x.annihil.us/u/prod/marvel/i/mg/a/10/52e7d7ed68b54/standard_medium.jpg" />
+        <meta property="og:type" content="website" />
+        <meta property="fb:app_id" content="193166954153103" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="content-type" content="text/html;charset=utf-8" />
+        <meta name="robots" content="index,follow" />
+        <meta name="description" content="The writer of Marvel’s latest Infinite Comic bridges a gap in the Marvel Cinematic Universe!" />
+        <meta name="keywords" content="Peter David Provides a Prelude to Captain America: The Winter Soldier" />
+        <link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/responsive_v7_global_head_default_all_6a2408118ac0830447ed8edfb799bb18f6b182b3.css" />
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/responsive_v7_global_head_ie_8_all_e6a7f1424986ba2bf458dee01a95e30658fbca2b.css" /><![endif]-->
+        <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/ie7img-responsive_v7_global_head_default_all_6a2408118ac0830447ed8edfb799bb18f6b182b3.css" /><![endif]-->
+        <link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/responsive_v7_news_head_default_all_1039b39b9a517cffdd3d6389fa26cd29464f4262.css" />
+        <!--[if IE 8]><link rel="stylesheet" type="text/css" media="all" href="http://i.annihil.us/u/prod/marvel/s/css/responsive_v7_news_head_ie_8_all_92acbe9ab26a84402f41152916e15bb977a8d88d.css" /><![endif]-->
+        
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_head_default_7cd8ac67c62b2ba918ed075bd5dd991879a3a960.js"></script>
+        <!--[if lte IE 9]><script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_head_lte_ie_9_33688f8cf0fd2f41cddb07b324189e4d0d31acdc.js"></script><![endif]-->
+        <!--[if IE 8]><script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_head_ie_8_f762cec8af5eb45169e3de5dd6bd84126a49ebd8.js"></script><![endif]-->
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_news_head_default_105dae58218136f46c751213437de63b9a2571c7.js"></script>
+        
+        <title>Peter David Provides a Prelude to Captain America: The Winter Soldier | News | Marvel.com</title>
+        <link href="http://marvel.com/news/comics/2014/1/28/21840/peter_david_provides_a_prelude_to_captain_america_the_winter_soldier" rel="canonical" />
+        <link href="http://x.annihil.us/u/prod/marvel/i/mg/a/10/52e7d7ed68b54/standard_medium.jpg" rel="image_src" />
+        <script type="text/javascript" async="async" src="http://admin.brightcove.com/js/BrightcoveExperiences_all.js"></script>
+        <script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+        <script type="text/javascript">
+            //<![CDATA[
+            getTrigger('3176');    //]]>
+        </script>
+        <script type="text/javascript">
+            //<![CDATA[
+            if(document.location.protocol=='http:'){
+        var Tynt=Tynt||[];Tynt.push('bqEi3UnFmr4iATadbi-bnq');Tynt.i={"ap":"More on Marvel.com:"};
+        (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+        }    //]]>
+        </script>
+        <script type="text/javascript">
+        (function() {
+           function async_load(){
+        	 	files = new Array();
+        files.push({type : "text/javascript",
+        async : "async",
+        src : "http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_body_default_574c4c2312a27d64156b0caa71b535058edb4344.js"});
+        
+                    	for(i in files) {
+        					        s = document.createElement('script');
+        					        s.type = files[i].type;
+        					        s.async = files[i].async;
+        					        s.src = files[i].src;
+        					        var x = document.getElementsByTagName('script')[0];
+        					        x.parentNode.insertBefore(s, x);
+                		}
+        		}
+        					    if (window.attachEvent) {
+        					        window.attachEvent('onload', async_load);
+        					    } else {
+        					        window.addEventListener('load', async_load, false);
+        					    }
+        					})();
+        </script>
+        
+        <script type="text/javascript">// <![CDATA[
+         var MARVEL_USER ={"islogged":"1","mailing":{"marvelPulse":1,"marvelXP":0,"marvelMore":0,"marvelMarketing":1,"thirdParty":0,"makeMineMarvel":1,"marvelUniverseWiki":0,"marvelComicApps":0,"marvelStudiosAvengers":0,"marvelAVX":0,"master":1,"ironMan3":0,"marvelNow":0,"holidayPromotions":0},"mdcuSubscriber":1}
+        	// ]]></script>
+        <script type="text/javascript">
+        
+        var strTrackingCode = 'UA-273913-20';
+        var strUserSegment = "purchaser";
+        var strPageId = "/news/comics/2014/1/28/21840/peter_david_provides_a_prelude_to_captain_america_the_winter_soldier";
+        
+        var _gaq = _gaq || [];
+        function callAnalytics(trackingCode, userSegment, trackPage, transactionAdd, transactionItem) {
+            _gaq.push(['_setAccount', trackingCode]);
+            //_gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_setCustomVar',1, "user segment", userSegment, 2]);
+            _gaq.push(['_trackPageview',trackPage]);
+            _gaq.push(['_setDomainName', 'marvel.com']);
+            if(transactionAdd != null){
+                if (transactionAdd.length > 0 && transactionItem.length > 0) {
+                    _gaq.push(transactionAdd);
+                    _gaq.push(transactionItem);
+                    _gaq.push(['_trackTrans']);
+                }
+            }
+        
+            return false;
+        }
+        
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        
+        (function() {
+            callAnalytics(strTrackingCode, strUserSegment, strPageId, null, null);
+        })();
+        </script>
+        
+<link href="https://plus.google.com/108523337373444601877/posts" rel="publisher" />
+<meta name="msapplication-TileImage" content="/i/images/logo.png" />
+
+</head>
+    <body id="news-detail" class="news">
+
+  
+<!-- FLOODLIGHT TAGS FOR RE-TARGETED ADVERTISING (REQUESTED BY DISNEY) -->
+
+<!-- 
+Start of DoubleClick Floodlight Tag: Please do not remove 
+Activity name of this tag: M_Marvel_AllPages_Impression
+URL of the webpage where the tag is expected to be placed: http://marvel.com/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag. 
+Creation Date: 08/08/2013 
+--> 
+<script type="text/javascript"> 
+var axel = Math.random() + ""; 
+var a = axel * 10000000000000; 
+document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar451;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>'); 
+</script> 
+<noscript> 
+<iframe src="http://3944448.fls.doubleclick.net/activityi;src=3944448;type=m_mar096;cat=m_mar451;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe> 
+</noscript> 
+<!-- End of DoubleClick Floodlight Tag: Please do not remove --> 
+
+
+        
+        <script type="text/javascript">var tplToJs = tplToJs || {};tplToJs.mustache = tplToJs.mustache || {};var jsTplEngine = tplToJs.mustache;jsTplEngine.caption = "<style>\n.JCGallery .caption label {\n    font-size:14px;\n    text-transform: capitalize;\n}\n\n.JCGallery .caption .meta a:hover {\n    text-decoration: underline;\n}\n<\/style>\n<p class=\"gallery-title\">{{gallery_title}}<\/p>\n<div class=\"title\">\n    {{#getInput}} <span class=\"pageCount\"><input id=\"slideNumber\" value=\"{{getSlideNum}}\" type=\"text\"\/> {{pageCount}}<\/span> {{\/getInput}}\n     {{#onlySpan}}<span class=\"pageCount\">{{getSlideNum}}  {{pageCount}}<\/span>{{\/onlySpan}}\n    {{{title}}}\n<\/div>\n{{#showLinkText}}<a href=\"#\" class=\"caption-toggle\">{{toggleLinkText}}<i>I<\/i><\/a>{{\/showLinkText}}\n\n{{#meta}}\n    <div class=\"meta\">\n        {{#description}}\n        <p class=\"description\">\n        {{{description}}}\n        <\/p>\n        {{\/description}}\n        \n        <ul>\n           {{#abstractMetaData}}\n            <li><label>{{label}} <\/label>{{{value}}}<\/li>\n            {{\/abstractMetaData}}\n        <\/ul>\n       \n    <\/div>\n{{\/meta}}\n\n{{#connected}}\n    {{#connectedMeta}}      \n        <div class=\"meta connected_meta\">\n            <div class=\"title\">{{{title}}}<\/div>\n            <ul>\n                {{#abstractMetaData}}\n                <li>\n                    {{#label}}<label>{{label}}<\/label>{{\/label}} {{{value}}}\n                <\/li>\n                {{\/abstractMetaData}}\n            <\/ul>\n        <\/div>\n    {{\/connectedMeta}}\n{{\/connected}}\n\n";jsTplEngine.topcontrols = "<div class=\"top-controls\">\n    <div class=\"social\">\n        <a data-gallery-sharebtn=\"facebook\" href=\"#\"><i class=\"icon-facebook\"><\/i><\/a>\n        <a data-gallery-sharebtn=\"twitter\" href=\"#\"><i class=\"icon-twitter\"><\/i><\/a>\n        <a data-id=\"pinterest\" data-pin-do=\"buttonPin\" data-pin-config=\"none\" href=\"#\"><i class=\"icon-pinterest\"><\/i><\/a>\n    <\/div>\n    <div class=\"fullscreen-toggle\">\n        <a href=\"#\" class=\"fullscreen-toggle\"><i class=\"icon-fullscreen\"><\/i><\/a>\n    <\/div>\n<\/div>";jsTplEngine.slider = "<div class=\"pwrSldr_container JCS1\">\n    <a href=\"#\" class=\"pwrSldr_btn _prev\"><span><\/span><\/a>\n    <a href=\"#\" class=\"pwrSldr_btn _next\"><span><\/span><\/a>\n    <div class=\"pwrSldr_wrapper\">\n        <div class=\"pwrSldr jcgallery-stopInstantiator\">\n            <ul><\/ul>\n        <\/div>\n    <\/div>\n<\/div>";jsTplEngine.structure = "<div class=\"JCGallery no-stripes\" id=\"{{UI.JCGallery.id}}\">\n    <div class=\"JCGallery_slides\">\n        <div class=\"grid-container\">\n            {{>JCGallery\/partials\/topcontrols}}\n            {{>JCGallery\/partials\/slider}}\n        <\/div>\n    <\/div>\n    <div class=\"grid-container meta\">\n      <!--  <div class=\"gallery-pagination\"><div class=\"title pageCount\"><span>Go to Slide<\/span> <input id=\"slideNumber\" type=\"text\"\/><button>go<\/button><\/div><\/div>-->\n        <div class=\"caption\"><\/div>\n        <div class=\"JCGallery_thumbs\">{{>JCGallery\/partials\/slider}}<\/div>\n    <\/div>\n    <div class=\"sideAd\"><\/div>\n    <div class=\"interstitialAd\"><\/div>\n<\/div>";</script>
+
+<header>
+                      
+  <div class="ad ad-header">                    <!-- Gorilla Nation Ad Tag -->
+                    <div class="advertisement">
+                    
+                    
+                        <script type="text/javascript">
+                        // <![CDATA[
+                            // Unique ID shared by all ads on the page (UNIX timestamp)
+                            if(typeof _gnOrd !== "number") {
+                                var _gnOrd = Math.random()*10000000000000000;
+                            }
+                            // Ordinal position of this ad on the page
+                            if(typeof _gnTile === "number") {
+                                ++_gnTile;
+                            } else {
+                                var _gnTile = 1;
+                            }
+                    
+                    		
+                        // Ad source
+                            var _gnSrc = "http://n4403ad.doubleclick.net/adj/gn.marvel.com/news;sect=news;sz=970x66,728x90;dcopt=ist;mtfInline=true;type=int;tile=3" + _gnTile + ";ord=" + _gnOrd;
+                            document.write(unescape(
+                                "%3Cscript type='text/javascript' src='" + _gnSrc + "'%3E%3C/script%3E"
+                            ));
+                    
+                    	    // ]]>
+                    
+                        </script>
+                    </div>
+                    
+</div>
+    
+
+
+<!--[if IE 8]> <div class="lt-IE9 marvelWidget_Container notresponsive"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<div class="marvelWidget_Container notresponsive">
+<!--<![endif]-->
+  <div id="marvel_topnav_wrapper" class="inner"> <!-- header -->
+                      <div id="marvel_topnav_search" class="marvel_search_box  closed">
+                      <form method="get" action="http://marvel.com/search/?q=">
+                        
+                        <span id="marvel_topnav_search_close" class="icon-close"></span>
+                        <div class="searchbg"></div>
+                        <div>
+                          <input type="text" name="q" class="txtSearch" id="txtSearch" tabindex="1" placeholder="SEARCH" >
+                          <select name="category" class="marvel_search_select ">
+                              <option value="All" selected>All</option>
+                              <option value="comics" >Comics</option>
+                              <option value="movies" >Movies</option>
+                              <option value="videos" >Videos</option>
+                              <option value="games" >Games</option>
+                              <option value="tv" >TV</option>
+                              <option value="characters" >Characters</option>
+                              <option value="news" selected>News</option>
+                              <option value="wallpapers" >Wallpapers</option>
+                              <option value="images" >Images</option>
+                              <option value="podcasts" >Podcasts</option>
+                          </select>
+                          <button class="btn btn-red btn-search" tabindex="2" type="submit"><span>Search</span></button>
+                        </div>
+                      </form>
+                    </div>
+                    
+    <div id="marvel_topnav" class="inner">
+      <h1><a href="/" class="icon-marvel-logo"></a></h1>
+      <div id="marvel_topnav_mobile">
+        <span id="icon-menu" class="icon-menu _topnavicon"></span>
+        <span id="icon-search" class="icon-search _topnavicon"></span>      </div>
+      <div id="marvel_topnav_ul_wrapper">
+        <div>
+
+          <ul id="marvel_topnav_ul">
+            <li class="home"><a  href="/">Home</a></li>
+                                    <li><a href="http://marvel.com/comics" class="">Comics</a></li>
+                    
+                                    <li><a href="http://marvel.com/movies" class="">Movies</a></li>
+                    
+                                    <li><a href="http://marvel.com/videos" class="">Videos</a></li>
+                    
+                                    <li><a href="http://marvel.com/games" class="">Games</a></li>
+                    
+                                    <li><a href="http://marvel.com/tv" class="">TV</a></li>
+                    
+                                    <li><a href="http://marvel.com/characters" class="">Characters</a></li>
+                    
+                                    <li><a href="http://www.marvelstore.com/" class="">Shop</a></li>
+                    
+                                <li class="dropdown-container">
+                        <a class="">More</a>
+                        <div class="dropdown more">
+                          <div class="linklist">
+                    <ul>
+                    <li><a href="http://marvel.com/news/">News</a></li>
+                    <li><a href="http://marvel.com/images/">Images</a></li>
+                    <li><a href="http://marvel.com/mobile/">Apps</a></li>
+                    <li><a href="http://marvel.com/podcasts/10/this_week_in_marvel">Podcast</a></li>
+                    <!--
+                    <li><a href="http://marvel.com/wallpaper/" mce_href="http://marvel.com/wallpaper/">Wallpapers</a></li>
+                    -->
+                    <li><a href="http://more.marvel.com/">Offers</a></li>
+                    <li><a href="http://www.cafepress.com/+marvel+gifts">CafePress</a></li>
+                    </ul>
+                    </div>
+                    <div class="applist">
+                    <ul>
+                    <li><a href="http://marvel.com/mobile/#marvel_comics_app"><img src="http://i.annihil.us/u/prod/marvel/i/mg/4/20/5189661e2df84b.png" />Marvel Comics</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_unlimited_app"><img src="http://i.annihil.us/u/prod/marvel/i/mg/4/20/5189670f880beb.png" />Marvel Unlimited</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_ar_app"><img src="http://i.annihil.us/u/prod/marvel/i/mg/f/03/518965f591a15.png" />Marvel AR</a></li>
+                    <li><a href="http://marvel.com/mobile/#marvel_avengers_alliance_app"><img src="http://i.annihil.us/u/prod/marvel/i/mg/4/20/51bb5eb3dbcd8bb.png" />Avengers Alliance</a></li>
+                    </ul>
+                    </div>
+                    <div class="sociallist"><span>Follow:</span> <a target="_blank" href="http://www.facebook.com/Marvel"><span class="icon-facebook"></span></a> <a target="_blank" href="https://plus.google.com/+marvel/posts"><span class="icon-google-plus"></span></a> <a target="_blank" href="https://twitter.com/#!/marvel"><span class="icon-twitter"></span></a> <a target="_blank" href="http://marvelentertainment.tumblr.com/"><span class="icon-tumblr"></span></a> <a target="_blank" href="http://www.youtube.com/marvel"><span class="icon-youtube"></span></a> <a target="_blank" href="http://pinterest.com/marvelofficial/"><span class="icon-pinterest"></span></a></div>
+                        </div>
+                    </li>
+          </ul>
+
+          <ul class="right">
+                        <li id="marvel_topnav_search_button"><a><span class="icon-search _topnavicon"></span></a></li>
+                                    <li id="marvel_topnav_user_button" style="position: static;"><a><span class="icon-account _topnavicon"></span></a>
+              <div class="dropdown signin">
+                                    <script type="text/javascript">
+                    	window.marvelJanrainTokenUrl = "https://marvel.com/my_account/social";
+                    	window.marvelJanrainAppId    = "gofcnefdmbcgfcjpgide";
+                    	window.marvelJanrainAppUrl   = "https://forge.marvel.com"
+                    </script>
+                    
+                    <div class="signedin">
+                    	<h2><img src="http://i.annihil.us/u/prod/marvel/s/images/juggernaut/marvel-unlimited-logo.png">ericlakatos</h2>
+                    		<span>Last Login: Jan 30, 2014</span>
+                    
+                    
+                    
+                    	<div class="lightdark">
+                    		<ul>
+                    			<li><a href="https://marvel.com/my_account/my_must_reads">My Library</a></li>
+                    			<li><a href="/help">Help / FAQs</a></li>
+                    			<li><a href="https://marvel.com/my_account">Account Settings</a></li>
+                    		</ul>
+                    		<a class="btn btn-black" href="https://secure.marvel.com/user/logout?referer=http%3A%2F%2Fmarvel.com%2Fnews%2Fcomics%2F2014%2F1%2F28%2F21840%2Fpeter_david_provides_a_prelude_to_captain_america_the_winter_soldier"><span>Sign Out</span></a>
+                    
+                    	</div>
+                    </div>
+                    
+                    
+              </div>
+            </li>
+                      </ul>
+
+        </div>
+      </div>
+    </div>
+
+  
+                      <div id="marvel_subnav_wrapper">
+                      <div id="marvel_subnav">
+                        <span id="marvel_subnav_li"><a>News</a></span>
+                        <div id="marvel_subnav_div">
+                          <ul id="marvel_subnav_ul">
+                            <li><a href="/news">News</a> <span>&nbsp;</span></li>
+                            <li class="dropdown-container">
+                    <a
+                    	
+                    	
+                    >Browse</a>
+                                <div class="dropdown">
+                                    <a
+                                    	href="/news/movies"
+                                    	
+                                    >Movie News</a>
+                                    <a
+                                    	href="/news/comics"
+                                    	class="current"
+                                    >Comics News</a>
+                                    <a
+                                    	href="/news/video_games"
+                                    	
+                                    >Game News</a>
+                                    <a
+                                    	href="/news/tv"
+                                    	
+                                    >TV News</a>
+                                    <a
+                                    	href="/news/toys"
+                                    	
+                                    >Toy News</a>
+                                    <a
+                                    	href="/news/gear"
+                                    	
+                                    >Gear News</a>
+                                </div>
+                            </li>
+                            <li> <a
+                    	href="/news/trending"
+                    	
+                    >Trending Now</a>
+                     </li>
+                            <li> <a
+                    	href="/news/recent"
+                    	
+                    >Most Recent</a>
+                     </li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+
+  </div> <!-- header -->
+  <hr class="marvel_topnav_hr"/>
+  </div></header>
+
+                    
+                         <script type="text/javascript">
+                         var tplToJs = tplToJs || {};
+                         tplToJs.mustache = tplToJs.mustache || {};
+                         var jsTplEngine = tplToJs.mustache;
+                         jsTplEngine.ad = "<!-- Gorilla Nation Ad Tag -->\n<div class=\"advertisement\">\n\n\n    <script type=\"text\/javascript\">\n    \/\/ <![CDATA[\n        \/\/ Unique ID shared by all ads on the page (UNIX timestamp)\n        if(typeof _gnOrd !== \"number\") {\n            var _gnOrd = Math.random()*10000000000000000;\n        }\n        \/\/ Ordinal position of this ad on the page\n        if(typeof _gnTile === \"number\") {\n            ++_gnTile;\n        } else {\n            var _gnTile = 1;\n        }\n\n\t\t\n    \/\/ Ad source\n        var _gnSrc = \"http:\/\/n4403ad.doubleclick.net\/adj\/gn.marvel.com\/news;sect=news;sz=300x250;mtfInline=true;tile=1\" + _gnTile + \";ord=\" + _gnOrd;\n        document.write(unescape(\n            \"%3Cscript type='text\/javascript' src='\" + _gnSrc + \"'%3E%3C\/script%3E\"\n        ));\n\n\t    \/\/ ]]>\n\n    <\/script>\n<\/div>\n";
+                         </script>
+                        
+                    
+                        <div class="JCGallery no-stripes" id="gallery">
+                            <div class="JCGallery_slides">
+                                <div class="grid-container">
+                                    <div class="top-controls">
+                                        <div class="social">
+                                            <a data-gallery-sharebtn="facebook" href="#"><i class="icon-facebook"></i></a>
+                                            <a data-gallery-sharebtn="twitter" href="#"><i class="icon-twitter"></i></a>
+                                            <a data-id="pinterest" data-pin-do="buttonPin" data-pin-config="none" href="#"><i class="icon-pinterest"></i></a>
+                                        </div>
+                                        <div class="fullscreen-toggle">
+                                            <a href="#" class="fullscreen-toggle"><i class="icon-fullscreen"></i></a>
+                                        </div>
+                                    </div>            <div class="pwrSldr_container JCS1">
+                                        <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                                        <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                                        <div class="pwrSldr_wrapper">
+                                            <div class="pwrSldr jcgallery-stopInstantiator">
+                                                <ul></ul>
+                                            </div>
+                                        </div>
+                                    </div>        </div>
+                            </div>
+                            <div class="grid-container meta">
+                              <!--  <div class="gallery-pagination"><div class="title pageCount"><span>Go to Slide</span> <input id="slideNumber" type="text"/><button>go</button></div></div>-->
+                                <div class="caption"></div>
+                                <div class="JCGallery_thumbs"><div class="pwrSldr_container JCS1">
+                            <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                            <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                            <div class="pwrSldr_wrapper">
+                                <div class="pwrSldr jcgallery-stopInstantiator">
+                                    <ul></ul>
+                                </div>
+                            </div>
+                        </div></div>
+                            </div>
+                            <div class="sideAd"></div>
+                            <div class="interstitialAd"></div>
+                        </div><script type="text/javascript">
+                            (function (_isMobile) {
+                                var hashNumber,
+                                    hashIndex,
+                                    idNumber,
+                                    hash = window.location.hash,
+                                    jsonUrl,
+                                    secondPartOfUrl = "/images/gallery/slides/";
+                        
+                                var jsonPath = window.location.origin + secondPartOfUrl + 'story/' + '21840/',
+                                    gallery = new JCGallery(),
+                                    $el = $('#gallery'),
+                                    totalCount = '',
+                                    $theGridContainer = $('.device_LARGE .JCGallery_slides .grid-container');
+                                    window.gallery = gallery;
+                        
+                                //HASH Interpretation. Avoid other hashes from breaking gallery plugins
+                              
+                                function __init(){
+                                    _setLocalVars();
+                                    $theGridContainer.addClass('loading');
+                                    ///////////////////////
+                                    //Initialize Gallery //
+                                    ///////////////////////
+                                        _initializeTheGallery({"slides":[{"img":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/3\/30\/52e7d8211c237.jpg","description":"","title":"Captain America: The Winter Soldier Prelude","thumb":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/3\/30\/52e7d8211c237\/landscape_small.jpg","id":"969451","width":"940","height":"529","abstractMetaData":[],"connectedMeta":[{"title":"Related Galleries","abstractMetaData":[{"label":"-","value":"<a href=\"\/images\/gallery\/story\/21840\/images_from_peter_david_provides_a_prelude_to_captain_america_the_winter_soldier\" >Peter David Provides a Prelude to Captain America: The Winter Soldier<\/a>"}]}],"index":0}],"title":"Captain America: The Winter Soldier Prelude"}, 'getHashIndex');
+                                }
+                        
+                                ////////////
+                                //Methods //
+                                //////////// 
+                        
+                                function _findTheTrueIndex(id, slides) {
+                                    if (!id) return hashNumber;
+                                    var length = slides.length
+                                    for (var i=0; i<length; i++) {
+                                        if (slides[i].id == id) return slides[i].index;// double == because id could be string or number
+                                    }
+                                    return hashNumber;
+                                }
+                        
+                                function _initializeTheGallery(galleryData) {
+                                    var useDataIndex,
+                                        useData = (arguments[1] === 'getHashIndex') ? true : null;
+                                    if (useData) {
+                                        useDataIndex = _findTheTrueIndex(idNumber, galleryData.slides);
+                                    }
+                                    galleryData.count = (galleryData.count && !_isMobile) ? galleryData.count : (galleryData.slides.length <= 50) ? galleryData.slides.length : 50 - 1;
+                                    //galleryData.index = (galleryData.index && !_isMobile) ? galleryData.index : 0;
+                                    galleryData.index = (useData) ? useDataIndex :(galleryData.index && !_isMobile) ? galleryData.slides[0].index : 0;
+                                    gallery.init($el, galleryData, {
+                                        isMobile: _isMobile,
+                                        title: galleryData.title, 
+                                        interstitial_interval: 0,
+                                        count: galleryData.count,
+                                        indexNum: Math.abs(galleryData.index),
+                                        path:jsonPath,
+                                        lastSlideIndex: galleryData.slides[galleryData.slides.length -1].index,
+                                        offset: '50',
+                                        googleAnalytics: {
+                                          contentId: '21840',
+                                          galleryType: 'story'
+                                        },
+                                        contentID: '21840',
+                                        galleryType: 'story',
+                                        metadata2: '',
+                                        useData: useData
+                                    });
+                        
+                                    $el.data('JCGallery', gallery);
+                                    // $theGridContainer.removeClass('loading');
+                                    ('story' === 'dynamic' && hash !== '') ? gallery.toggleFullscreen(true) : '';
+                                }
+                        
+                                function _setLocalVars(){
+                                    var assumeProperHash = hash.indexOf('-') >= 0,
+                                        properHashToNum = hash.split('-').join('');
+                                    properHashToNum = properHashToNum.substr(1,properHashToNum.length);  
+                        
+                                    if (hash !== '' && assumeProperHash && !isNaN(properHashToNum)) {
+                                        hashIndex = hash.indexOf('-');
+                                        hashNumber = parseInt(hash.slice(1, hashIndex)* -1);
+                                        idNumber = parseInt(hash.slice((hashIndex+1)));
+                                        jsonUrl = window.location.origin + secondPartOfUrl + 'story/' + '21840/' + hashNumber + '/' + idNumber;     
+                                    } else {
+                                        hashNumber = '0';
+                                        jsonUrl = window.location.origin + secondPartOfUrl + 'story/' + '21840/' + hashNumber;
+                                    }
+                                } 
+                        
+                                __init();
+                            })(Juggernaut.client.hasTouch);
+                        
+                            //for pinterest  
+                            (function(d){
+                                var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+                                p.type = 'text/javascript';
+                                p.async = true;
+                                p.src = '//assets.pinterest.com/js/pinit.js';
+                                f.parentNode.insertBefore(p, f);
+                            }(document)); 
+                        </script>
+                        
+                        
+                            
+                            
+                    <section data-stickyicky-bounds="somename">
+                        <section class="module JMStory  moduColor_Light no-stripes" id="story1">
+                            <div class="outergrid-container">
+                                <div class="rhs">
+                                    <div class="ad-container">
+                                        <div class="ad ad-300x250"><!-- Gorilla Nation Ad Tag -->
+                        <div class="advertisement">
+                        
+                        
+                            <script type="text/javascript">
+                            // <![CDATA[
+                                // Unique ID shared by all ads on the page (UNIX timestamp)
+                                if(typeof _gnOrd !== "number") {
+                                    var _gnOrd = Math.random()*10000000000000000;
+                                }
+                                // Ordinal position of this ad on the page
+                                if(typeof _gnTile === "number") {
+                                    ++_gnTile;
+                                } else {
+                                    var _gnTile = 1;
+                                }
+                        
+                        		
+                            // Ad source
+                                var _gnSrc = "http://n4403ad.doubleclick.net/adj/gn.marvel.com/news;sect=news;sz=300x250;mtfInline=true;tile=2" + _gnTile + ";ord=" + _gnOrd;
+                                document.write(unescape(
+                                    "%3Cscript type='text/javascript' src='" + _gnSrc + "'%3E%3C/script%3E"
+                                ));
+                        
+                        	    // ]]>
+                        
+                            </script>
+                        </div>
+                        </div>
+                                    </div>
+                                    <section class="sticky-icky" data-stickyicky-elem="somename">
+                                        <aside class="sidebar ">
+                                        	<h2 class="module-header"><a href="/news/group/261/infinite_comics" class="see-all">See All</a>MORE IN Infinite Comics</h2>
+                                        		<div class="row-item media-item">
+                                        			<div class="row-item-image">
+                                        				<a href="/news/comics/2014/1/28/21844/meet_the_bride_of_deadpool" class="row-item-image-url">
+                                        					<div class="row-item-image-border"></div>
+                                        						<img src="http://x.annihil.us/u/prod/marvel/i/mg/f/60/52e812becdf4f/landscape_xlarge.jpg" title="" alt=""/>
+                                        					<i class="media-item-type media-item-story"></i>
+                                        				</a>
+                                        			</div>
+                                        			<div class="row-item-text">
+                                        				<span class="media-item-date">Jan 28, 2014</span>
+                                        				<h5><a href="/news/comics/2014/1/28/21844/meet_the_bride_of_deadpool">Meet the Bride of Deadpool</a></h5>
+                                        			</div>
+                                        		</div>
+                                        		<div class="row-item media-item">
+                                        			<div class="row-item-image">
+                                        				<a href="/news/comics/2014/1/22/21726/pick_up_deadpool_the_gauntlet" class="row-item-image-url">
+                                        					<div class="row-item-image-border"></div>
+                                        						<img src="http://i.annihil.us/u/prod/marvel/i/mg/6/80/52e034e882f5b/landscape_xlarge.jpg" title="" alt=""/>
+                                        					<i class="media-item-type media-item-story"></i>
+                                        				</a>
+                                        			</div>
+                                        			<div class="row-item-text">
+                                        				<span class="media-item-date">Jan 22, 2014</span>
+                                        				<h5><a href="/news/comics/2014/1/22/21726/pick_up_deadpool_the_gauntlet">Pick Up Deadpool: The Gauntlet</a></h5>
+                                        			</div>
+                                        		</div>
+                                        </aside>
+                                        <aside class="sidebar ">
+                                        	<h2 class="module-header"><a href="/news/group/101/captain_america_the_winter_soldier" class="see-all">See All</a>MORE IN Captain America: The Winter Soldier</h2>
+                                        		<div class="row-item media-item">
+                                        			<div class="row-item-image">
+                                        				<a href="/news/movies/2014/1/13/21741/cap_prepares_for_the_winter_soldier_in_2_new_movie_images" class="row-item-image-url">
+                                        					<div class="row-item-image-border"></div>
+                                        						<img src="http://i.annihil.us/u/prod/marvel/i/mg/b/a0/52d0aac918cc1/landscape_xlarge.jpg" title="" alt=""/>
+                                        					<i class="media-item-type media-item-story"></i>
+                                        				</a>
+                                        			</div>
+                                        			<div class="row-item-text">
+                                        				<span class="media-item-date">Jan 13, 2014</span>
+                                        				<h5><a href="/news/movies/2014/1/13/21741/cap_prepares_for_the_winter_soldier_in_2_new_movie_images">Cap Prepares For the Winter Soldier in 2 New Movie Images</a></h5>
+                                        			</div>
+                                        		</div>
+                                        		<div class="row-item media-item">
+                                        			<div class="row-item-image">
+                                        				<a href="/news/movies/2014/1/10/21734/meet_captain_america_this_spring_at_disneyland_park_in_anaheim" class="row-item-image-url">
+                                        					<div class="row-item-image-border"></div>
+                                        						<img src="http://x.annihil.us/u/prod/marvel/i/mg/9/03/52d03467e7238/landscape_xlarge.jpg" title="" alt=""/>
+                                        					<i class="media-item-type media-item-story"></i>
+                                        				</a>
+                                        			</div>
+                                        			<div class="row-item-text">
+                                        				<span class="media-item-date">Jan 10, 2014</span>
+                                        				<h5><a href="/news/movies/2014/1/10/21734/meet_captain_america_this_spring_at_disneyland_park_in_anaheim">Meet Captain America This Spring at Disneyland Park in Anaheim</a></h5>
+                                        			</div>
+                                        		</div>
+                                        </aside>
+                                        <aside class="sidebar ">
+                                        	<h2 class="module-header"><a href="/news/comics" class="see-all">See All</a> MORE IN Comics</h2>
+                        		<div class="row-item media-item">
+                        		    
+                        		    
+                        		    <div class="row-item-text">
+                        		        <a href="/news/group/22/all-new_marvel_now" class="media-item-group">All-New Marvel NOW!</a>
+                        		            <span class="media-item-date">Jan 29, 2014</span>
+                        		        <h5><a href="/news/comics/2014/1/29/21853/re-familiarize_with_the_first_family_in_fantastic_four_1">Re-Familiarize with the First Family in Fantastic Four #1</a></h5>
+                        		    </div>
+                        		</div>		<div class="row-item media-item">
+                        		    
+                        		    
+                        		    <div class="row-item-text">
+                        		        <a href="/news/group/478/new_in_marvel_ar" class="media-item-group">New in Marvel AR</a>
+                        		            <span class="media-item-date">Jan 29, 2014</span>
+                        		        <h5><a href="/news/comics/2014/1/29/21852/see_whats_new_in_marvel_ar_12914">See What's New in Marvel AR 1/29/14</a></h5>
+                        		    </div>
+                        		</div>		<div class="row-item media-item">
+                        		    
+                        		    
+                        		    <div class="row-item-text">
+                        		        
+                        		            <span class="media-item-date">Jan 29, 2014</span>
+                        		        <h5><a href="/news/comics/2014/1/29/21849/the_writer_of_loki_agent_of_asgard_takes_over_the_this_week_in_marvel_now_podcast">The Writer of Loki: Agent of Asgard Takes Over the This Week in Marvel NOW! Podcast</a></h5>
+                        		    </div>
+                        		</div>                </aside>
+                                    </section>
+                                </div>
+                                <div class="grid-container">
+                                    <div class="lhs">
+                                        <div class="story-header">
+                                            <p class="group"> <a href="/news/group/101/captain_america_the_winter_soldier">Captain America: The Winter Soldier</a> </p>
+                                            <p class="title">Peter David Provides a Prelude to Captain America: The Winter Soldier</p>
+                                            <p class="description">The writer of Marvel’s latest Infinite Comic bridges a gap in the Marvel Cinematic Universe!</p>
+                                        </div>
+                                        <ul class="story-meta-block">
+                                          <li class="author">
+                                            <a href="https://twitter.com/fuzzytypewriter" target="twitter"><img src="http://x.annihil.us/u/prod/marvel/i/authors/paul-montgomery.jpg"></a>
+                                            
+                                            <h4>Paul Montgomery</h4>
+                                            <a href="https://twitter.com/fuzzytypewriter" target="twitter">@fuzzytypewriter</a>
+                                          </li>
+                                          <li class="published">
+                                            <h4>Published</h4>
+                                            <span>Jan 28, 2014</span>
+                                          </li>
+                                          <li class="updated">
+                                            <h4>Updated</h4>
+                                            <span>Jan 28, 2014</span>
+                                          </li>
+                        
+                                        </ul>
+                                        <div class="story-body">
+                                            <div class="story-social-block">
+                                                <div class="sociallist">
+                                                    <h4>Share:</h4>
+                                                    <a data-janrain-sharebtn="facebook"><span class="icon-facebook small"></span></a> 
+                                                    <a data-id="googlePlusButton" href="#"><span class="icon-google-plus small"></span></a> 
+                                                    <a data-janrain-sharebtn="twitter"><span class="icon-twitter small"></span></a> 
+                                                    <a data-janrain-sharebtn="email"><span class="icon-email small black"></span></a>
+                                                </div>
+                                                <div class="comment_count" data-scrollto='{"selector": "#comments", "duration": 200}'>
+                                                    <h4>Comments:</h4>
+                                                    <div>
+                                                        <span class="icon-comments small"></span> <span class="count livefyre-commentcount" data-lf-site-id="319022" data-lf-article-id="story-21840"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="story-body-text">
+                                                <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+                        <html><body><p>Today, S.H.I.E.L.D. dispatches Captain America, Black Widow and Agent Rumlow to reclaim the mysterious &ldquo;Zodiac&rdquo; device at any cost. Tensions run high with the threat of terrorist reprisal in downtown Chicago, but Cap remains just as unnerved by his own handlers and their refusal to divulge the true nature of the weapon. What does Zodiac do and why does S.H.I.E.L.D. want it?</p>
+                        <p>Written by Peter David, with layouts by Daniel Govar and art by Rock-He Kim, the CAPTAIN AMERICA: THE WINTER SOLDIER PRELUDE Infinite Comic&mdash;<a href="http://comicstore.marvel.com/Marvels-Captain-America-The-Winter-Soldier-Infinite-Comic-1/digital-comic/32593" target="blank">available now</a>&mdash;bridges a divide in the Marvel Cinematic Universe. Editors Bill Rosemann and Emily Show worked closely with Marvel Studios to highlight an especially stormy period just prior to the events of April&rsquo;s &ldquo;Captain America: The Winter Soldier&rdquo; film. Rosemann then tapped David, who previously adapted &ldquo;Captain America: The First Avenger&rdquo; as a comic, to headline this latest project.</p>
+                        <p>Here, David explores a key theme of Steve Rogers&rsquo; cinematic journey: the evolution of his patriotic zeal, from the scrappy young man bent on joining the war effort to a more thoughtful leader ever mindful of his minders. The hunt for the Zodiac device leaves Captain America all the more concerned about the intentions behind his marching orders. That not everyone under his command shares those concerns makes for a compelling ensemble piece.</p>
+                        <p>	<div class="JCGallery no-stripes" id="gallery1">
+                            <div class="JCGallery_slides">
+                                <div class="grid-container">
+                                    <div class="top-controls">
+                                        <div class="social">
+                                            <a data-gallery-sharebtn="facebook" href="#"><i class="icon-facebook"></i></a>
+                                            <a data-gallery-sharebtn="twitter" href="#"><i class="icon-twitter"></i></a>
+                                            <a data-id="pinterest" data-pin-do="buttonPin" data-pin-config="none" href="#"><i class="icon-pinterest"></i></a>
+                                        </div>
+                                        <div class="fullscreen-toggle">
+                                            <a href="#" class="fullscreen-toggle"><i class="icon-fullscreen"></i></a>
+                                        </div>
+                                    </div>            <div class="pwrSldr_container JCS1">
+                                        <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                                        <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                                        <div class="pwrSldr_wrapper">
+                                            <div class="pwrSldr jcgallery-stopInstantiator">
+                                                <ul></ul>
+                                            </div>
+                                        </div>
+                                    </div>        </div>
+                            </div>
+                            <div class="grid-container meta">
+                              <!--  <div class="gallery-pagination"><div class="title pageCount"><span>Go to Slide</span> <input id="slideNumber" type="text"/><button>go</button></div></div>-->
+                                <div class="caption"></div>
+                                <div class="JCGallery_thumbs"><div class="pwrSldr_container JCS1">
+                            <a href="#" class="pwrSldr_btn _prev"><span></span></a>
+                            <a href="#" class="pwrSldr_btn _next"><span></span></a>
+                            <div class="pwrSldr_wrapper">
+                                <div class="pwrSldr jcgallery-stopInstantiator">
+                                    <ul></ul>
+                                </div>
+                            </div>
+                        </div></div>
+                            </div>
+                            <div class="sideAd"></div>
+                            <div class="interstitialAd"></div>
+                        </div><script type="text/javascript">
+                            (function (_isMobile) {
+                                var hashNumber,
+                                    hashIndex,
+                                    idNumber,
+                                    hash = window.location.hash,
+                                    jsonUrl,
+                                    secondPartOfUrl = "/images/gallery/slides/";
+                        
+                                var jsonPath = window.location.origin + secondPartOfUrl + 'dynamic/' + '21840/',
+                                    gallery = new JCGallery(),
+                                    $el = $('#gallery1'),
+                                    totalCount = '',
+                                    $theGridContainer = $('.device_LARGE .JCGallery_slides .grid-container');
+                                    window.gallery = gallery;
+                        
+                                //HASH Interpretation. Avoid other hashes from breaking gallery plugins
+                              
+                                function __init(){
+                                    _setLocalVars();
+                                    $theGridContainer.addClass('loading');
+                                    ///////////////////////
+                                    //Initialize Gallery //
+                                    ///////////////////////
+                                        _initializeTheGallery({"slides":[{"img":"http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/70\/52e7d83ecbd60.jpg","description":"","title":"Captain America: The Winter Soldier Prelude art by Rock-He Kim","thumb":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/c\/70\/52e7d83ecbd60\/landscape_small.jpg","id":"969452","width":"1000","height":"738","abstractMetaData":[],"connectedMeta":[{"title":"Related Galleries","abstractMetaData":[{"label":"-","value":"<a href=\"\/images\/gallery\/story\/21840\/images_from_peter_david_provides_a_prelude_to_captain_america_the_winter_soldier\" >Peter David Provides a Prelude to Captain America: The Winter Soldier<\/a>"}]}],"index":0},{"img":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/d\/20\/52e7d895c2efd.jpg","description":"","title":"Captain America: The Winter Soldier Prelude art by Rock-He Kim","thumb":"http:\/\/i.annihil.us\/u\/prod\/marvel\/i\/mg\/d\/20\/52e7d895c2efd\/landscape_small.jpg","id":"969454","width":"1000","height":"738","abstractMetaData":[],"connectedMeta":[{"title":"Related Galleries","abstractMetaData":[{"label":"-","value":"<a href=\"\/images\/gallery\/story\/21840\/images_from_peter_david_provides_a_prelude_to_captain_america_the_winter_soldier\" >Peter David Provides a Prelude to Captain America: The Winter Soldier<\/a>"}]}],"index":1},{"img":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/d0\/52e7d86aa2b89.jpg","description":"","title":"Captain America: The Winter Soldier Prelude art by Rock-He Kim","thumb":"http:\/\/x.annihil.us\/u\/prod\/marvel\/i\/mg\/9\/d0\/52e7d86aa2b89\/landscape_small.jpg","id":"969453","width":"1000","height":"738","abstractMetaData":[],"connectedMeta":[{"title":"Related Galleries","abstractMetaData":[{"label":"-","value":"<a href=\"\/images\/gallery\/story\/21840\/images_from_peter_david_provides_a_prelude_to_captain_america_the_winter_soldier\" >Peter David Provides a Prelude to Captain America: The Winter Soldier<\/a>"}]}],"index":2}],"title":"Captain America: The Winter Soldier Prelude art by Rock-He Kim"}, 'getHashIndex');
+                                }
+                        
+                                ////////////
+                                //Methods //
+                                //////////// 
+                        
+                                function _findTheTrueIndex(id, slides) {
+                                    if (!id) return hashNumber;
+                                    var length = slides.length
+                                    for (var i=0; i<length; i++) {
+                                        if (slides[i].id == id) return slides[i].index;// double == because id could be string or number
+                                    }
+                                    return hashNumber;
+                                }
+                        
+                                function _initializeTheGallery(galleryData) {
+                                    var useDataIndex,
+                                        useData = (arguments[1] === 'getHashIndex') ? true : null;
+                                    if (useData) {
+                                        useDataIndex = _findTheTrueIndex(idNumber, galleryData.slides);
+                                    }
+                                    galleryData.count = (galleryData.count && !_isMobile) ? galleryData.count : (galleryData.slides.length <= 50) ? galleryData.slides.length : 50 - 1;
+                                    //galleryData.index = (galleryData.index && !_isMobile) ? galleryData.index : 0;
+                                    galleryData.index = (useData) ? useDataIndex :(galleryData.index && !_isMobile) ? galleryData.slides[0].index : 0;
+                                    gallery.init($el, galleryData, {
+                                        isMobile: _isMobile,
+                                        title: galleryData.title, 
+                                        interstitial_interval: 0,
+                                        count: galleryData.count,
+                                        indexNum: Math.abs(galleryData.index),
+                                        path:jsonPath,
+                                        lastSlideIndex: galleryData.slides[galleryData.slides.length -1].index,
+                                        offset: '50',
+                                        googleAnalytics: {
+                                          contentId: '21840',
+                                          galleryType: 'dynamic'
+                                        },
+                                        contentID: '21840',
+                                        galleryType: 'dynamic',
+                                        metadata2: '',
+                                        useData: useData
+                                    });
+                        
+                                    $el.data('JCGallery', gallery);
+                                    // $theGridContainer.removeClass('loading');
+                                    ('dynamic' === 'dynamic' && hash !== '') ? gallery.toggleFullscreen(true) : '';
+                                }
+                        
+                                function _setLocalVars(){
+                                    var assumeProperHash = hash.indexOf('-') >= 0,
+                                        properHashToNum = hash.split('-').join('');
+                                    properHashToNum = properHashToNum.substr(1,properHashToNum.length);  
+                        
+                                    if (hash !== '' && assumeProperHash && !isNaN(properHashToNum)) {
+                                        hashIndex = hash.indexOf('-');
+                                        hashNumber = parseInt(hash.slice(1, hashIndex)* -1);
+                                        idNumber = parseInt(hash.slice((hashIndex+1)));
+                                        jsonUrl = window.location.origin + secondPartOfUrl + 'dynamic/' + '21840/' + hashNumber + '/' + idNumber;     
+                                    } else {
+                                        hashNumber = '0';
+                                        jsonUrl = window.location.origin + secondPartOfUrl + 'dynamic/' + '21840/' + hashNumber;
+                                    }
+                                } 
+                        
+                                __init();
+                            })(Juggernaut.client.hasTouch);
+                        
+                            //for pinterest  
+                            (function(d){
+                                var f = d.getElementsByTagName('SCRIPT')[0], p = d.createElement('SCRIPT');
+                                p.type = 'text/javascript';
+                                p.async = true;
+                                p.src = '//assets.pinterest.com/js/pinit.js';
+                                f.parentNode.insertBefore(p, f);
+                            }(document)); 
+                        </script>
+                        
+                        
+                            
+                            
+                        &ldquo;They know what S.H.I.E.L.D. has told them: that they're looking for the Zodiac, but they know little to nothing about it,&rdquo; explains David. &ldquo;To the Black Widow and Rumlow, that's fine. They're okay with doing what they're told. &nbsp;Cap, however, is way more suspicious and wants a clearer idea of what's going on, and is annoyed that S.H.I.E.L.D. isn't big on being forthcoming.&rdquo;</p>
+                        <p>If he doesn&rsquo;t quite trust the brass, then can Captain America at least depend on his fellow Avenger, Black Widow?</p>
+                        <p>&ldquo;I think he sees her as a valued ally,&rdquo; says David, &ldquo;But [he] tends to be suspicious of the outfit that she works for. He trusts her as someone to have his back in a fight, but I think also believes that if S.H.I.E.L.D. told her to put a knife in his back, she would do so without hesitation, and that can be problematic.</p>
+                        <p>&ldquo;Rumlow, meantime, is an eager partner, but Cap doesn't trust him at all. First, there's the suspicion aspect. And second, I think Cap is still gun-shy because the last time he had a partner. Bucky wound up dying&mdash;or at least so he believes&mdash;and he's not anxious for history to repeat itself.&rdquo;</p>
+                        <p><i>Read the <a href="http://comicstore.marvel.com/Marvels-Captain-America-The-Winter-Soldier-Infinite-Comic-1/digital-comic/32593" target="blank">CAPTAIN AMERICA: THE WINTER SOLDIER PRELUDE Infinite Comic</a> right now!</i></p></body></html>
+                        
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                        
+                                <div class="grid-container">
+                                    <div class="lhs">
+                                        <div class="story-body">
+                        
+                                            <div class="story-social-block">
+                                                <div class="sociallist">
+                                                    <h4>Share:</h4>
+                                                    <a data-janrain-sharebtn="facebook"><span class="icon-facebook small"></span></a> 
+                                                    <a data-id="googlePlusButton" href="#"><span class="icon-google-plus small"></span></a> 
+                                                    <a data-janrain-sharebtn="twitter"><span class="icon-twitter small"></span></a> 
+                                                    <a data-janrain-sharebtn="email"><span class="icon-email small black"></span></a>
+                                                </div>
+                                                <div class="comment_count" data-scrollto='{"selector": "#comments", "duration": 200}'>
+                                                    <h4>Comments:</h4>
+                                                    <div>
+                                                        <span class="icon-comments small"></span> <span class="count livefyre-commentcount" data-lf-site-id="319022" data-lf-article-id="story-21840"></span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                        
+                                            <dl class="_mediaOvLg-block story-related-meta">
+                          <dt><div class="_pad"><h5>Tags</h5></div></dt>
+                          <dd class="JCTags"><div class="_pad"><a href="http://marvel.com/search/?q=captain america: the winter soldier&category=news">captain america: the winter soldier</a><a href="http://marvel.com/search/?q=infinite comics&category=news">infinite comics</a><a href="http://marvel.com/search/?q=peter david&category=news">peter david</a><a href="http://marvel.com/search/?q=rock-he kim&category=news">rock-he kim</a></div></dd>
+                        </dl>
+                                        </div>
+                        
+                                    </div>
+                                </div>
+                                <div class="mobile-meta">
+                                    <ul class="story-meta-block">
+                                      <li class="author">
+                                        <a href="https://twitter.com/fuzzytypewriter" target="twitter"><img src="http://x.annihil.us/u/prod/marvel/i/authors/paul-montgomery.jpg"></a>
+                                        
+                                        <h4>Paul Montgomery</h4>
+                                        <a href="https://twitter.com/fuzzytypewriter" target="twitter">@fuzzytypewriter</a>
+                                      </li>
+                                      <li class="published">
+                                        <h4>Published</h4>
+                                        <span>Jan 28, 2014</span>
+                                      </li>
+                                      <li class="updated">
+                                        <h4>Updated</h4>
+                                        <span>Jan 28, 2014</span>
+                                      </li>
+                        
+                                    </ul>
+                                    <dl class="JCAccordion _mediaToLg-block story-related-meta" data-jcaccordion="newsStory">
+                          <dt><div class="_pad"><h5>Tags</h5></div></dt>
+                          <dd class="JCTags"><div class="_pad"><a href="http://marvel.com/search/?q=captain america: the winter soldier&category=news">captain america: the winter soldier</a><a href="http://marvel.com/search/?q=infinite comics&category=news">infinite comics</a><a href="http://marvel.com/search/?q=peter david&category=news">peter david</a><a href="http://marvel.com/search/?q=rock-he kim&category=news">rock-he kim</a></div></dd>
+                        </dl>
+                                </div>
+                            </div>
+                        
+                            <script> 
+                                /**
+                                 * Set the width of the LHS column to make room for the absolutely positioned outside-grid RHS column.
+                                 */
+                                Juggernaut.JMStory = (function(self, $,$window){
+                                    var $module = $('.JMStory'),
+                                        $center_container = $module.find('.outergrid-container'),
+                                        $lhs,$rhs,
+                                        _breakpoint = '(max-width: 939px)';
+                                    var STORYWIDTH = {
+                                        updateSelectors : function(){
+                                            $lhs = $module.find('.lhs').add('.JCNextPrevStory-wrap .lhs');
+                                            $rhs = $module.find('.rhs').first();
+                                        },
+                                        set : function(){
+                                            if(window.matchMedia(_breakpoint).matches){$lhs.css('width', '');return;}
+                                            $lhs.css('width', ($center_container.innerWidth() - $rhs.outerWidth() - ($center_container.innerWidth() - 940) / 2) + 'px');
+                                        },
+                                        reset : function(){
+                                            this.updateSelectors();this.set();
+                                        }
+                                    }
+                                    //Binds
+                                    $window.on('resize', Juggernaut.utilities.throttle(STORYWIDTH.set, 50));
+                                    STORYWIDTH.reset();
+                                    //Augment with SUBMODULES
+                                    self['STORYWIDTH'] = STORYWIDTH;
+                                    return self;
+                                })(Juggernaut.JMStory || {}, jQuery, $(window));        //GPlus Button
+                                $(document).on('click', "[data-id='googlePlusButton']", function () {
+                                    var width = 725,height = 550,
+                                        left = ($(window).width() - width) / 2, top = ($(window).height() - height) / 2,
+                                        opts = 'scrollbars=yes' + ',width=' + width + ',height=' + height + ',top=' + top + ',left=' + left,
+                                        googlePlusUrl = "https://plus.google.com/share?url="+window.location.href;
+                                    window.open(googlePlusUrl, 'popupwindow', opts);
+                                    return false;
+                                });
+                        
+                                
+                            </script>
+                        </section>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        <section class="module no-stripes moduColor_Light JCNextPrevStory-wrap">
+                        	<div class="grid-container ">
+                        		<div class="lhs">
+                        			<div class="JCNextPrevStory">
+                        			    <h3>NEXT IN Comics</h3>
+                        			    <p><a href="/news/comics/2014/1/28/21837/counting_down_the_best_heroes_of_2013_pt_2">Counting down the Best Heroes of 2013 Pt. 2</a></p>
+                        			    <a class="btn btn-red" href="/news/comics/2014/1/28/21837/counting_down_the_best_heroes_of_2013_pt_2"><span>Read now</span></a>
+                        			</div>
+                        			<div class="JCNextPrevStory">
+                        			    <h3>PREVIOUS IN Comics</h3>
+                        			    <p><a href="/news/comics/2014/1/28/21833/leather_hulks_and_more_see_the_five_most_radical_fantastic_four_redesigns">Leather, Hulks and more: See the Five Most Radical Fantastic Four Redesigns</a></p>
+                        			    <a class="btn btn-red" href="/news/comics/2014/1/28/21833/leather_hulks_and_more_see_the_five_most_radical_fantastic_four_redesigns"><span>Read now</span></a>
+                        			</div>
+                        		</div>
+                        	</div>
+                        </section>
+                        
+                        <script>Juggernaut.JMStory.STORYWIDTH.reset();</script>
+                        
+                    </section>
+                    
+                    
+                        
+                        
+                        
+                    
+                    
+                            <section class="module JCFeatured moduColor_Light" style="background-color:#ebebeb;">
+                              <div class="site-container">
+                                <div class="featured-item-info-wrap FlexGrid">
+                                  <div class="featured-item-info FlexGrid-row">
+                                    <div class="row-item movie-item FlexGrid-cell">
+                                      <div class="row-item-image">
+                                        <a href="/movies/movie/181/captain_america_the_winter_soldier" class="row-item-image-url">
+                                          <div class="row-item-image-border"></div>
+                                          <img src="http://x.annihil.us/u/prod/marvel/i/mg/2/b0/521f71f03305c/portrait_incredible.jpg" title="Captain America: The Winter Soldier" alt="Captain America: The Winter Soldier"/>
+                                        </a>
+                                      </div>
+                                    </div>
+                                    <div class="featured-item-text FlexGrid-cell">
+                                      <div class="row-item-text">
+                                        <h5 class="featured-item-title">
+                                          <a href="/movies/movie/181/captain_america_the_winter_soldier">Captain America: The Winter Soldier</a>
+                                        </h5>
+                                      </div>
+                                      <div class="featured-item-meta">
+                        
+                                        <!--
+                                        <h1>A181 BCaptain America: The Winter Soldier CCaptain America returns to theaters April 4, 2014! D E F G H I
+                                        </h1>
+                                        -->
+                        
+                        
+                                            <span class="block2"><strong>Release Date: </strong> April 4, 2014</span>
+                        
+                        
+                                          <span class="block2"><strong>Rating: </strong> UR</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                                      </div>
+                                      <div class="featured-item-desc">
+                                        <p data-blurb="1819">
+                        	Captain America returns to theaters April 4, 2014!
+                        	
+                        </p>
+                        <p data-blurb="1819" style="display:none">
+                         	Captain America returns to theaters April 4, 2014!
+                        	
+                        </p>
+                                      </div>
+                                    </div>
+                        
+                                  </div>
+                                </div>
+                              </div>
+                            </section>
+                    
+                        <a name="comments"></a>
+                        <div class="module moduColor_Light ">
+                          <div class="grid-container _forceRgtMar">
+                            <h2 class="module-header">Comments</h2>
+                            <script type="text/javascript">
+                            link=document.createElement('script');
+                            link.type="text/javascript";
+                            link.src="http://zor.livefyre.com/wjs/v1.0/javascripts/CommentCount.js";
+                            link.setAttribute('data-lf-domain', 'marvel.fyre.co');
+                        
+                            document.getElementsByTagName('head')[0].appendChild(link);
+                        </script>
+                        
+                        <script type="text/javascript">
+                            // these are just utility methods for working with cookies
+                            function setCookie(a,b,c){if(c){var d=new Date;d.setTime(d.getTime()+c*24*60*60*1e3);var e="; expires="+d.toGMTString()}else var e="";document.cookie=a+"="+b+e+"; path=/"}function getCookie(a){var b=a+"=";var c=document.cookie.split(";");for(var d=0;d<c.length;d++){var e=c[d];while(e.charAt(0)==" ")e=e.substring(1,e.length);if(e.indexOf(b)==0)return e.substring(b.length,e.length)}return null}function deleteCookie(a){setCookie(a,"",-1)}
+                        </script>
+                        
+                        <script type="text/javascript" src="http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js"></script>
+                        <div id="comments"><script>
+                          (function() {
+                            
+                           var a=this;var b,c,d,e,f;function g(){return a.navigator?a.navigator.userAgent:null}f=e=d=c=b=!1;var h;if(h=g()){var i=a.navigator;b=0==h.indexOf("Opera");c=!b&&-1!=h.indexOf("MSIE");e=(d=!b&&-1!=h.indexOf("WebKit"))&&-1!=h.indexOf("Mobile");f=!b&&!d&&"Gecko"==i.product}var j=c,k=f,l=d,m=e;var n;if(b&&a.opera){var o=a.opera.version;"function"==typeof o&&o()}else k?n=/rv\:([^\);]+)(\)|;)/:j?n=/MSIE\s+([^\);]+)(\)|;)/:l&&(n=/WebKit\/(\S+)/),n&&n.exec(g());var p=document,q=p.createElement("link");q.rel="stylesheet";q.type="text/css";q.href="https://lfzor-a.akamaihd.net/wjs/v3.0/css/livefyre_"+(m?"mobile":"embed")+".css";q.media="all";p.getElementsByTagName("head")[0].appendChild(q);var r="header hgroup footer article section aside nav figure figcaption embed audio video canvas details summary time mark".split(" "),s=p.createDocumentFragment(),t;for(t=0; t<r.length; t++){s.appendChild(p.createElement(r[t]))};
+                           })();    
+                        </script>
+                        <div class="fyre fyre-width-large fyre-bootstrap">
+                          <div class="fyre-widget">
+                            <div class="fyre-stream-stats">
+                              <div class="fyre-comment-count">
+                                <span>1 comments</span>
+                              </div>
+                        
+                              <div class="fyre-divider"></div>
+                        
+                              <div class="fyre-help">
+                                <div class="fyre-box-wrapper">
+                                  <a href="http://livefyre.com" target="_blank"><span class="fyre-logo-drop">&nbsp</span>
+                                  <img class="fyre-logo-help" src="https://lfzor-a.akamaihd.net/wjs/v3.0/images/lf-logo.png" alt="Livefyre" /></a>
+                                  
+                                  <ul class="fyre-box-list">
+                                    <li><a href="http://livefyre.com" target="_blank" title="Get Livefyre">Get
+                                    Livefyre</a></li>
+                        
+                                    <li><a href="http://support.livefyre.com" target="_blank" title=
+                                    "FAQ">FAQ</a></li>
+                                  </ul>
+                                </div>
+                              </div>
+                            </div>
+                        
+                            <div class="fyre-auth">
+                              <div class="fyre-login-bar"><a rel="nofollow" href="#" class="fyre-user-loggedout">Sign in</a></div>
+                            </div>
+                        
+                            <div class="fyre-editor">
+                              <div class="fyre-editor-container">
+                                <div class="fyre-editor-editable" style="height: 100px;"></div>
+                        
+                                <div class="fyre-editor-toolbar">
+                                  <div class="goog-toolbar goog-toolbar-horizontal" style=
+                                  "-webkit-user-select: none;" role="toolbar" aria-activedescendant="">
+                                    <div class="goog-inline-block fyre-button-left fyre-format-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":0">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-inline-block fyre-button-left fyre-mention-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":1">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-inline-block fyre-button-left fyre-follow-button" title=""
+                                    role="button" style="-webkit-user-select: none;" id=":2">
+                                      <div class="goog-inline-block fyre-button-left-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-left-inner-box" style=
+                                        "-webkit-user-select: none;">
+                                          + Follow
+                                        </div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-button fyre-post-button-enabled"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":3">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;">
+                                          Post comment
+                                        </div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-facebook"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":4">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-twitter"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":5">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class=
+                                    "goog-inline-block fyre-button-right fyre-post-to fyre-post-to-linkedin"
+                                    title="" role="button" style="-webkit-user-select: none;" id=":7">
+                                      <div class="goog-inline-block fyre-button-right-outer-box" style=
+                                      "-webkit-user-select: none;">
+                                        <div class="goog-inline-block fyre-button-right-inner-box" style=
+                                        "-webkit-user-select: none;"></div>
+                                      </div>
+                                    </div>
+                        
+                                    <div class="goog-toolbar-separator goog-inline-block" style=
+                                    "-webkit-user-select: none;" role="separator" id=":6">
+                                      &nbsp;
+                                    </div>
+                                  </div>
+                        
+                                  <div class="fyre-format-toolbar" style="display: none;">
+                                    <div class="goog-toolbar goog-toolbar-horizontal" style=
+                                    "-webkit-user-select: none;" role="toolbar" tabindex="-1">
+                                      <div class="goog-inline-block goog-toolbar-button" title="Bold"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+bold">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-bold" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Italic"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+italic">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-italic" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Underline"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+underline">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-underline" style="-webkit-user-select: none;">
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title=
+                                      "Add or remove link" aria-pressed="true" role="button" style=
+                                      "-webkit-user-select: none;" id="+link">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-link" style="-webkit-user-select: none;">
+                                              Link
+                                            </div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Numbered list"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+insertOrderedList">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-insertOrderedList" style=
+                                            "-webkit-user-select: none;"></div>
+                                          </div>
+                                        </div>
+                                      </div>
+                        
+                                      <div class="goog-inline-block goog-toolbar-button" title="Bullet list"
+                                      aria-pressed="true" role="button" style="-webkit-user-select: none;" id=
+                                      "+insertUnorderedList">
+                                        <div class="goog-inline-block goog-toolbar-button-outer-box" style=
+                                        "-webkit-user-select: none;">
+                                          <div class="goog-inline-block goog-toolbar-button-inner-box" style=
+                                          "-webkit-user-select: none;">
+                                            <div class="tr-icon tr-insertUnorderedList" style=
+                                            "-webkit-user-select: none;"></div>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                        
+                            <div class="fyre-comment-stream" style="">
+                              <div class="fyre-stream-sort">
+                                <a class="fyre-stream-sort-newest">Newest</a> | <a class="fyre-stream-sort-oldest">Oldest</a>
+                              </div>
+                        
+                              <div class="fyre-stream-content">      
+                                
+                                    
+                        <article class="fyre-comment-article">
+                          <div class="fyre-comment-wrapper">
+                          
+                          
+                          
+                          <div class="fyre-comment-user">
+                            <a class="fyre-comment-author"><img src="" class=
+                            "fyre-user-avatar" alt="utsavbansal" /></a>
+                        
+                            <div class="fyre-comment-socialsync fyre-comment-from-livefyre"></div>
+                          </div>
+                            
+                          <header class="fyre-comment-head">
+                            <a class="fyre-comment-username">utsavbansal</a> 
+                            
+                            
+                            <span class="fyre-comment-user-rating" style="display: none;">5pts</span>
+                            <span class="fyre-comment-like" style="float: right;">
+                              
+                            </span>
+                            
+                          </header>
+                          
+                          <section class="fyre-comment-body">
+                            <div class="fyre-comment">
+                              <p><p>It's an excellent comic, special mention to the transition between the panels. The dialogue and artwork could use a boost, but I am not complaining, especially because I was happy that MCU didn't forget Zodiac after Agent Carter. I hope to see more of it in the future, probably used in Agents of SHIELD! Keep up the good work Marvel!</p></p>
+                            </div>
+                            
+                          </section>
+                        
+                          <footer class="fyre-comment-footer">
+                          </footer>
+                          </div>
+                          <div class="fyre-comment-divider"><div class="fyre-comment-divider"></div></div>
+                        
+                          
+                            
+                          <div class="fyre-comment-replies fyre-comment-container fyre-comment-replies-indent">
+                          
+                          </div>
+                        </article>
+                        
+                        
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        </div>
+                        <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+                        
+                        <script type="text/javascript">
+                        var lfCookieName = 'livefyre_token',
+                            authDelegate = new fyre.conv.RemoteAuthDelegate();
+                        
+                        authDelegate.login = function (delegate) {
+                            if(document.cookie.indexOf(lfCookieName) >= 0){
+                                doLivefyreAuth();
+                                delegate.success();
+                            }
+                            else {
+                                //First time the user try to login to the comments
+                                if(typeof authDelegate.loginData === 'undefined' || authDelegate.loginData.active === false || matchMedia("(max-width: 899px)").matches ) {
+                                    //Cache the login box element in an object related to the authDelegate
+                                    authDelegate.loginData = {
+                                        'login' : $("#marvel_topnav_user_button .dropdown.signin"),
+                                        'link'  : $(".fyre-user-loggedout").first(),
+                                        'active': true
+                                    };
+                                    //Posizion the login dialog and then check for window resize to redraw the position
+                                    authDelegate.loginPosition();
+                                    //$(window).on('resize',authDelegate.loginPosition);
+                                }
+                                else {
+                                    authDelegate.loginPositionReset();
+                                }
+                            }
+                        };
+                        
+                        authDelegate.loginPosition = function(){
+                            //alert('A: ' + matchMedia("(max-width: 899px)").matches);
+                            if( matchMedia("(max-width: 899px)").matches ) {
+                                document.querySelector("textarea.fyre-editor-field-mobile").blur();
+                                window.scrollTo(0,0);
+                                var ev = document.createEvent('Event');
+                                ev.initEvent(window.navigator.msPointerEnabled ? "MSPointerDown" : "ontouchstart" in window ? "touchstart" : "mousedown", true, true);
+                                document.getElementById("icon-menu").dispatchEvent(ev);
+                                document.getElementById("marvel_topnav_ul").style.display = "none";
+                                return false;
+                            }
+                        
+                            /**
+                             * [Positioning herein has dependencies in the nav structure]
+                             */
+                            authDelegate.loginData.link.css({'background': '#2d2d2d','color': 'white', 'padding': '10px', 'top':'-10px', 'left':'-10px'});
+                            var _offset = authDelegate.loginData.link.offset(),
+                                _navHeight = document.querySelectorAll('header .ad-header')[0].clientHeight,
+                                _navMaxWidth = document.getElementById('marvel_topnav').clientWidth;
+                            authDelegate.loginData.login.css({
+                                'top': _offset.top - (_navHeight - 32)+'px',
+                                'left': ( matchMedia("(min-width: 1000px)").matches ?
+                                           '0px' :
+                                           (   _offset.left - ( ($('body').width() - _navMaxWidth) / 2) ) +'px' ),
+                                'padding-top' : 0,
+                                'opacity': 1
+                            });
+                        };
+                        
+                        authDelegate.loginPositionReset = function(){
+                            authDelegate.loginData.link.css({'background': 'transparent','color': '#D30001','padding': '', 'left':'', 'top':''});
+                            authDelegate.loginData.login.css({ 'top': '','left': '','padding-top' : '', 'opacity': '' });
+                            authDelegate.loginData.active = false;
+                            $(window).off('resize',authDelegate.loginPosition);
+                        };
+                        
+                        authDelegate.logout = function () {
+                            deleteCookie(lfCookieName);
+                            var href = $("#marvel_topnav_user_button .dropdown.signin a.btn.btn-black").attr("href");
+                            window.location = href;
+                            return true;
+                        };
+                        
+                        authDelegate.viewProfile = function () {
+                            return false;
+                        };
+                        
+                        authDelegate.editProfile = function () {
+                            return false;
+                        };
+                        
+                        function doLivefyreAuth() {
+                            var cval = getCookie(lfCookieName);
+                            if (cval) {
+                                try {
+                                    fyre.conv.login(cval);
+                                } catch (e) {
+                                    console.log("Error attempting to login with ", lfCookieName, " cookie value: ", cval, " ", e);
+                                }
+                            }
+                        }
+                        </script>
+                        
+                        <script type="text/javascript">var lf_config = [{"collectionMeta":"eyJ0eXAiOiJqd3QiLCJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IlBldGVyIERhdmlkIFByb3ZpZGVzIGEgUHJlbHVkZSB0byBDYXB0YWluIEFtZXJpY2E6IFRoZSBXaW50ZXIgU29sZGllciIsInVybCI6Imh0dHA6XC9cL21hcnZlbC5jb21cL25ld3NcL2NvbWljc1wvMjAxNFwvMVwvMjhcLzIxODQwXC9wZXRlcl9kYXZpZF9wcm92aWRlc19hX3ByZWx1ZGVfdG9fY2FwdGFpbl9hbWVyaWNhX3RoZV93aW50ZXJfc29sZGllciIsInRhZ3MiOiJjb250ZW50X3R5cGU6c3RvcnksY29udGVudF9pZDoyMTg0MCxzZWN0aW9uOk5ld3MsYnVzaW5lc3NfdW5pdDpDb21pY3MsY29udGVudF9ncm91cDpDYXB0YWluIEFtZXJpY2E6IFRoZSBXaW50ZXIgU29sZGllcixjb250ZW50X2dyb3VwOkluZmluaXRlIENvbWljcyxwYXJlbnRfdHlwZTptb3ZpZSxwYXJlbnRfbmFtZTpDYXB0YWluIEFtZXJpY2E6IFRoZSBXaW50ZXIgU29sZGllcixwYXJlbnRfaWQ6MTgxLG5ld3NzZWN0aW9uOk5ld3MtQ29taWNzIiwiY2hlY2tzdW0iOiJjMDdiYWY1MGZlOTE3NmRhZWFkMzc5MzUxZWRiMTlkOSIsImFydGljbGVJZCI6InN0b3J5LTIxODQwIn0.8bwwtdkvquAqaaK2x_9s9pxXJ18BttDSQhezdCNt1ZA","checksum":"c07baf50fe9176daead379351edb19d9","siteId":"319022","articleId":"story-21840","el":"comments","disableAvatars":true,"postToButtons":["tw","fb"]}];var conv = fyre.conv.load({"network": "marvel.fyre.co", "authDelegate": authDelegate, "editorCss": {"font":"14px/23px TradeGothic,sans-serif"} }, lf_config , function(widget) {
+                                            widget.on("initialRenderComplete", function (data) {
+                                            doLivefyreAuth();
+                                        });
+                                        });</script>
+                        <script type="text/javascript">
+                            Livefyre.UI.init();
+                        </script>
+                          </div>
+                        </div>
+                    
+                    <script>
+                    $(document).on('ready',function(){
+                        setTimeout(function(){//Timeout added to ensure proper timing when running after a flush.
+                            LF.CommentCount({
+                                replacer: function(element, count) {
+                                    var _strCount = count.toString();
+                                    if(_strCount.length > 3)_strCount = _strCount.substr(0,1)+'k+';
+                                    element.innerHTML = _strCount;
+                                    element.style.display = "inline-block";
+                                }
+                            });
+                        },200);
+                    });
+                    </script>
+                    
+                    
+<!--[if IE 8]> <div class="marvelWidget_Container notresponsive lt-IE9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<div class="marvelWidget_Container notresponsive">
+<!--<![endif]-->
+
+                      <div id="marvel_topnav_search_footer" class="marvel_search_box footer open">
+                      <form method="get" action="http://marvel.com/search/?q=">
+                        <a href="/"><span class="icon-marvel-logo"></span></a>
+                        
+                        <div class="searchbg"></div>
+                        <div>
+                          <input type="text" name="q" class="txtSearch"  tabindex="1" placeholder="SEARCH" >
+                          <select name="category" class="marvel_search_select ">
+                              <option value="All" selected>All</option>
+                              <option value="comics" >Comics</option>
+                              <option value="movies" >Movies</option>
+                              <option value="videos" >Videos</option>
+                              <option value="games" >Games</option>
+                              <option value="tv" >TV</option>
+                              <option value="characters" >Characters</option>
+                              <option value="news" selected>News</option>
+                              <option value="wallpapers" >Wallpapers</option>
+                              <option value="images" >Images</option>
+                              <option value="podcasts" >Podcasts</option>
+                          </select>
+                          <button class="btn btn-red btn-search" tabindex="2" type="submit"><span>Search</span></button>
+                        </div>
+                      </form>
+                    </div>
+                    <script>$(".marvel_search_select").customSelectMenu();</script>
+                    
+        <script type="text/javascript">
+        (function() {
+           function async_load(){
+        	 	files = new Array();
+        
+                    	for(i in files) {
+        					        s = document.createElement('script');
+        					        s.type = files[i].type;
+        					        s.async = files[i].async;
+        					        s.src = files[i].src;
+        					        var x = document.getElementsByTagName('script')[0];
+        					        x.parentNode.insertBefore(s, x);
+                		}
+        		}
+        					    if (window.attachEvent) {
+        					        window.attachEvent('onload', async_load);
+        					    } else {
+        					        window.addEventListener('load', async_load, false);
+        					    }
+        					})();
+        </script>
+        
+  <div id="marvel_footer_wrapper">
+
+        <div class="marvel_footer" id="marvel_footer">
+      <div class="html_aside">
+        <h4>Comics</h4>
+        <ul>
+          <li><a href="http://marvel.com/comics/calendar/">Release Calendar</a></li>
+          <li><a href="http://marvel.com/comics/unlimited/">Marvel Unlimited</a></li>
+          <li><a href="http://marvel.com/redeem/">Redeem Digital Copy</a></li>
+          <li><a href="http://comicstore.marvel.com/">Shop Digital Comics</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Characters</h4>
+        <ul>
+          <li><a href="http://marvel.com/characters/bio/1009610/spider-man">Spider-Man</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009165/avengers">Avengers</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009368/iron_man">Iron Man</a></li>
+          <li><a href="http://marvel.com/characters/bio/1009351/hulk">Hulk</a></li>
+          <li><a href="http://marvel.com/universe/">Universe Wiki</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Downloads</h4>
+        <ul>
+          <li><a href="http://marvel.com/mobile/">Mobile Apps</a></li>
+          <li><a href="http://marvel.com/mobile/#games">Mobile Games</a></li>
+          <li><a href="http://marvel.com/podcasts/">Podcast</a></li>
+          <li><a href="http://marvel.com/wallpaper/">Wallpaper</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Kids</h4>
+        <ul>
+          <li><a href="http://marvelkids.marvel.com/">Marvel Kids</a></li>
+          <li><a href="http://marvelkids.marvel.com/shows/">Kids Shows</a></li>
+          <li><a href="http://marvelkids.marvel.com/games/">Kids Games</a></li>
+          <li><a href="http://marvelkids.marvel.com/activities/">Kids Activities</a></li>
+        </ul>
+      </div>
+
+      <div class="html_aside">
+        <h4>Company</h4>
+        <ul>
+          <li><a href="http://marvel.com/help/">Help/FAQs</a></li>
+          <li><a href="http://marvel.com/corporate/about/">About Marvel</a></li>
+          <li><a href="http://marvel.com/corporate/advertising/">Advertising</a></li>
+          <li><a href="http://marvel.com/corporate/interns/">Internships</a></li>
+          <li><a href="http://marvel.disneycareers.com/en/default/">Careers</a></li>
+                  </ul>
+      </div>
+    </div>
+    
+        <div class="marvel_footer_sub_wrapper">
+        <h4>Follow Marvel</h4>
+        <span>
+          <a href="http://www.facebook.com/Marvel" target="_blank"><span class="icon-facebook"></span></a>
+          <a href="https://plus.google.com/+marvel/posts" target="_blank"><span class="icon-google-plus"></span></a>
+          <a href="https://twitter.com/#!/marvel" target="_blank"><span class="icon-twitter"></span></a>
+          <a href="http://marvelentertainment.tumblr.com/" target="_blank"><span class="icon-tumblr"></span></a>
+          <a href="http://www.youtube.com/marvel" target="_blank"><span class="icon-youtube"></span></a>
+          <a href="http://pinterest.com/marvelofficial/" target="_blank"><span class="icon-pinterest"></span></a>
+        </span>
+
+        <!--
+        <h4>Get the Marvel Newsletter</h4>
+        <button class="btn btn-grey btn-small" href="https://marvel.com/my_account/emailpreferences"><span>Subscribe</span></button>
+        -->
+        <!--<li class="arrow"><a href="#top">&uarr; Top</a></li>-->
+    </div>
+    
+    <div class="marvel_footer_sub_partners_wrapper">
+      <a href="http://marvel.com/corporate/terms">Terms of Use</a>
+      <a href="http://marvel.com/corporate/privacy">Privacy Policy/Your California Privacy Rights</a>
+      <a href="http://marvel.com/corporate/license_tou">License Agreement</a>
+      <a href="http://marvel.com/corporate/terms/">&copy; 2014 Marvel</a>
+
+          </div>
+  </div>
+</div><!--/responsive toggler wrapper-->
+
+        
+
+<div class="footer_googleadservices_wrapper">
+<!--ROIA page #94-->
+<script type="text/javascript">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){
+l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;}
+catch(e){}}u='http'+(/^http:/i.test(D.URL)?'':'s')+'://roia.biz/im/p/94/js?s='+
+Math.floor(Math.random()*1320852094)+';t='+escape(T.getTime())+';z='+
+escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f);
+if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;}
+if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2);
+if(/^\s*roia_c$/.test(p[0])){u+=';_='+p[1];break;}}}
+document.write('<'+'script type="text/javascript" src="'+u+'"></'+'script>');
+})(document,screen,new Date());/*]]>*/</script>
+<noscript><iframe src="https://roia.biz/im/p/94/iframe?js=0" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute;top:-3000px;left:-3000px;"></iframe></noscript>
+<!--/ROIA page #94-->
+
+<!-- Google Code for AVX Homepage Visit Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 951293568;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "4s7QCPDyoQMQgK3OxQM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/951293568/?label=4s7QCPDyoQMQgK3OxQM&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
+</div>
+
+      <style type="text/css"><!--
+    .red-btn-gradient{
+        color:#fff;
+        background: #d00501; /* Old browsers */
+        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2QwMDUwMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjM5JSIgc3RvcC1jb2xvcj0iI2JjMDUwMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc5JSIgc3RvcC1jb2xvcj0iI2EyMDMwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5YzAyMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+        background: -moz-linear-gradient(top,  #d00501 0%, #bc0501 39%, #a20300 79%, #9c0200 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d00501), color-stop(39%,#bc0501), color-stop(79%,#a20300), color-stop(100%,#9c0200)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* IE10+ */
+        background: linear-gradient(to bottom,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d00501', endColorstr='#9c0200',GradientType=0 ); /* IE6-8 */
+        margin-left:15px;
+            box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
+        -webkit-box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
+        -moz-box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
+        border: 1px solid #9d0300;
+        text-shadow: 2px 2px 2px #5B0100;
+      }
+    
+    
+      .grey-btn-gradient{
+        color:#fff;
+        background: #acacac; /* Old browsers */
+        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
+        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2FjYWNhYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjIyJSIgc3RvcC1jb2xvcj0iIzlmOWY5ZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc4JSIgc3RvcC1jb2xvcj0iIzZkNmQ2ZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM1ZjVlNWUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+        background: -moz-linear-gradient(top,  #acacac 0%, #9f9f9f 22%, #6d6d6d 78%, #5f5e5e 100%); /* FF3.6+ */
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#acacac), color-stop(22%,#9f9f9f), color-stop(78%,#6d6d6d), color-stop(100%,#5f5e5e)); /* Chrome,Safari4+ */
+        background: -webkit-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* Chrome10+,Safari5.1+ */
+        background: -o-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* Opera 11.10+ */
+        background: -ms-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* IE10+ */
+        background: linear-gradient(to bottom,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* W3C */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#acacac', endColorstr='#5f5e5e',GradientType=0 ); /* IE6-8 */
+        box-shadow:inset 0px 1px 0px 0px #ededed;
+        -webkit-box-shadow:inset 0px 1px 0px 0px #ededed;
+        -moz-box-shadow:inset 0px 1px 0px 0px #ededed;
+        border: 1px solid #616161;
+        text-shadow: 2px 2px 2px #1d1d1d;
+      }
+      a.change-reader-btn{
+       
+        border-radius: 4px;
+        font-family:'RobotoCondensed', Arial, sans-serif;
+        font-weight: bold;
+        text-decoration:none;
+        display: inline-block;
+        cursor:pointer;
+      }
+    
+    
+      .change-reader-btn{
+      	padding:14px 10px;
+      	text-align: center;
+      	font-size: 16px;
+      }
+    
+    
+    #mdcu-reader-modal{
+    	color: white;
+    	width: 1000px;
+    	clear: both;
+    	float: left;
+    	position: relative;
+    	z-index: 1000000;
+    
+    }  
+    .mdcu-reader-modal-gradient{
+    	background: #292929; /* Old browsers */
+    	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+    	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI5MjkyOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU4JSIgc3RvcC1jb2xvcj0iIzA2MDYwNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjczJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    	background: -moz-linear-gradient(top,  #292929 0%, #060606 58%, #000000 73%, #000000 100%); /* FF3.6+ */
+    	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#292929), color-stop(58%,#060606), color-stop(73%,#000000), color-stop(100%,#000000)); /* Chrome,Safari4+ */
+    	background: -webkit-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* Chrome10+,Safari5.1+ */
+    	background: -o-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* Opera 11.10+ */
+    	background: -ms-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* IE10+ */
+    	background: linear-gradient(to bottom,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* W3C */
+    	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#000000',GradientType=0 ); /* IE6-8 */
+    
+    }
+    .mdcu-reader-modal-pitch p, .mdcu-reader-modal-pitch ul, .mdcu-reader-modal-pitch li{
+    	color: white;
+    	text-align: left;
+    
+    }
+    .mdcu-reader-modal-pitch p{
+    	font-size: 14px;
+    	margin:1em 0;
+    }
+    .mdcu-reader-modal-pitch ul{
+    	list-style-type: disc;
+    	padding-left: 40px;
+    	margin: 1em 0;
+    }
+    .mdcu-reader-modal-pitch{
+    	float:left;
+    	width:60%;
+    
+    }
+    .mdcu-reader-modal-devices{
+    	float:right;
+    
+    }
+    .mdcu-reader-modal-wrap{
+    	float: left;
+    	padding:30px 5% 15px 5%;
+    
+    }
+    .change-reader-buttons{
+    	float: right;
+    	margin-right:5%;
+    	margin-bottom: 30px;
+    
+    }
+    h3.mdcu-reader-modal-title{
+    	text-transform: uppercase;
+    	color: white;
+    	text-align: left;
+    	font-size: 30px;
+    	margin-bottom: 1em 0;
+    }
+    
+    #mdcu-reader-modal-wrapper{
+    	position: absolute;
+    	top: 35%;
+    	left: 24%;
+    }
+    
+    .mdcu-reader-modal-pitch p.disclaimer{
+    	font-size: 10px;
+    }
+    
+    #mdcu-reader-modal .legal-disclaimer { 
+        
+    
+    }
+    
+    #mdcu-reader-modal p.disclaimer{
+    color: #DDD;
+    }
+    
+    #mdcu-reader-modal .legal-disclaimer{
+    
+    float: left;
+    text-align: left;
+    }
+    
+    #mdcu-reader-modal .disclaimer a {
+    color: #D30000
+    }
+    --></style>
+    <div id="mdcu-reader-modal-wrapper" style="display: none;">
+    <div id="mdcu-reader-modal" class="mdcu-reader-modal-gradient">
+    <div class="mdcu-reader-modal-wrap">
+    <div class="mdcu-reader-modal-pitch">
+    <h3 class="mdcu-reader-modal-title">TRY OUR NEW COMIC READER BETA!</h3>
+    <p>As a valued Marvel Digital Comics Unlimited subscriber, be one of the first to try our new Beta reader, and tell us what you think using the "Help/Feedback" button at the top of the Reader!</p>
+    <p><strong>What's new and improved?</strong></p>
+    <ul>
+    <li>New! Read digital comics on your iPhone, iPad and iPod touch through your mobile browser</li>
+    <li>New! Redesigned navigation and reading experience</li>
+    <li>New! Smart Panels experience</li>
+    </ul>
+    </div>
+    <div class="mdcu-reader-modal-devices"><img src="http://i.annihil.us/u/prod/marvel/msc/devices-modal.png" /></div>
+    <div class="legal-disclaimer">
+    <p class="disclaimer"><span style="font-weight: bold;">Disclaimer</span></p>
+    <br />
+    <p class="disclaimer">YOU ACKNOWLEDGE THAT THE MARVEL DIGITAL COMICS UNLIMITED BETA READER ("BETA READER") IS A PRE-RELEASE PRODUCT, AND AS SUCH, THE BETA READER MAY WELL CONTAIN ERRORS AND DEFECTS AND IS NOT A FINAL PRODUCT. THE BETA READER IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND.</p>
+    <p class="disclaimer">By using the Beta Reader, you understand and agree to the Marvel Digital Comics Unlimited <a href="http://marvel.com/corporate/mdcu-terms" title="Terms of Use">Terms of Use</a> (including the Automatic Renewal Program), and to the Marvel.com <a href="http://marvel.com/corporate/terms" title="Terms and Conditions">Terms and Conditions</a> and <a href="http://marvel.com/corporate/privacy" title="Privacy Policy">Privacy Policy</a>.  Marvel may, in its sole discretion for any reason and at any time during this beta period, terminate access to the Beta Reader without notice or liability.</p>
+    </div>
+    </div>
+    <div class="change-reader-buttons"><a class="change-reader-btn grey-btn-gradient" id="cont-old-reader" title="Continue with Existing Reader">Continue with Existing Reader</a> <a class="change-reader-btn red-btn-gradient" id="try-new-reader" title="Try the New Comic Reader">Try the New Comic Reader</a></div>
+    </div>
+    </div>
+
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_foot_default_977e4c4ca6f68a7bbb32fb1351ed79b002fc9da9.js"></script>
+        <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_news_foot_default_2d67382d4ed6c0d60243f10407dace7d52a8297f.js"></script>
+        
+
+<!--  FACEBOOOK -->
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=455549254493061";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+
+window.fbAsyncInit = function() {
+  _ga.trackFacebook();
+};
+</script>
+</body>
+</html>
