@@ -1,4 +1,4 @@
-SERVER artie
+SERVER Rogue
 <!DOCTYPE html>
 <!--[if IE 8]> <html class="lt-ie9 lt-ie10 juggernaut notresponsive grid_940"> <![endif]-->
 <!--[if IE 9]> <html class="lt-ie10 juggernaut responsive grid_940"> <![endif]-->
@@ -98,12 +98,12 @@ SERVER artie
         </script>
         
         <script type="text/javascript">// <![CDATA[
-         var MARVEL_USER ={"islogged":"1","mailing":{"marvelPulse":1,"marvelXP":0,"marvelMore":0,"marvelMarketing":1,"thirdParty":0,"makeMineMarvel":1,"marvelUniverseWiki":0,"marvelComicApps":0,"marvelStudiosAvengers":0,"marvelAVX":0,"master":1,"ironMan3":0,"marvelNow":0,"holidayPromotions":0},"mdcuSubscriber":1}
+         var MARVEL_USER ={"islogged":"1","mailing":{"marvelPulse":1,"marvelXP":0,"marvelMore":0,"marvelMarketing":1,"thirdParty":1,"makeMineMarvel":0,"marvelUniverseWiki":0,"marvelComicApps":0,"marvelStudiosAvengers":0,"marvelAVX":0,"master":1,"ironMan3":0,"marvelNow":0,"holidayPromotions":0},"mdcuSubscriber":false}
         	// ]]></script>
         <script type="text/javascript">
         
         var strTrackingCode = 'UA-273913-20';
-        var strUserSegment = "purchaser";
+        var strUserSegment = "member";
         var strPageId = "/news/comics/2014/1/28/21840/peter_david_provides_a_prelude_to_captain_america_the_winter_soldier";
         
         var _gaq = _gaq || [];
@@ -211,7 +211,7 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         <span id="marvel_topnav_search_close" class="icon-close"></span>
                         <div class="searchbg"></div>
                         <div>
-                          <input type="text" name="q" class="txtSearch" id="txtSearch" tabindex="1" placeholder="SEARCH" >
+                          <input type="search" name="q" class="txtSearch" id="txtSearch" tabindex="1" placeholder="SEARCH" >
                           <select name="category" class="marvel_search_select ">
                               <option value="All" selected>All</option>
                               <option value="comics" >Comics</option>
@@ -294,10 +294,13 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                     </script>
                     
                     <div class="signedin">
-                    	<h2><img src="http://i.annihil.us/u/prod/marvel/s/images/juggernaut/marvel-unlimited-logo.png">ericlakatos</h2>
+                    	<h2>fabrygio</h2>
                     		<span>Last Login: Jan 30, 2014</span>
                     
                     
+                    		<div class="unlimitedupgrade">
+                    			<a href="/comics/unlimited"><img src="http://i.annihil.us/u/prod/marvel/s/images/juggernaut/marvel-unlimited-upgrade.jpg"></a>
+                    		</div>
                     
                     	<div class="lightdark">
                     		<ul>
@@ -382,7 +385,7 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                          var tplToJs = tplToJs || {};
                          tplToJs.mustache = tplToJs.mustache || {};
                          var jsTplEngine = tplToJs.mustache;
-                         jsTplEngine.ad = "<!-- Gorilla Nation Ad Tag -->\n<div class=\"advertisement\">\n\n\n    <script type=\"text\/javascript\">\n    \/\/ <![CDATA[\n        \/\/ Unique ID shared by all ads on the page (UNIX timestamp)\n        if(typeof _gnOrd !== \"number\") {\n            var _gnOrd = Math.random()*10000000000000000;\n        }\n        \/\/ Ordinal position of this ad on the page\n        if(typeof _gnTile === \"number\") {\n            ++_gnTile;\n        } else {\n            var _gnTile = 1;\n        }\n\n\t\t\n    \/\/ Ad source\n        var _gnSrc = \"http:\/\/n4403ad.doubleclick.net\/adj\/gn.marvel.com\/news;sect=news;sz=300x250;mtfInline=true;tile=1\" + _gnTile + \";ord=\" + _gnOrd;\n        document.write(unescape(\n            \"%3Cscript type='text\/javascript' src='\" + _gnSrc + \"'%3E%3C\/script%3E\"\n        ));\n\n\t    \/\/ ]]>\n\n    <\/script>\n<\/div>\n";
+                         jsTplEngine.ad = "";
                          </script>
                         
                     
@@ -532,37 +535,6 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         <section class="module JMStory  moduColor_Light no-stripes" id="story1">
                             <div class="outergrid-container">
                                 <div class="rhs">
-                                    <div class="ad-container">
-                                        <div class="ad ad-300x250"><!-- Gorilla Nation Ad Tag -->
-                        <div class="advertisement">
-                        
-                        
-                            <script type="text/javascript">
-                            // <![CDATA[
-                                // Unique ID shared by all ads on the page (UNIX timestamp)
-                                if(typeof _gnOrd !== "number") {
-                                    var _gnOrd = Math.random()*10000000000000000;
-                                }
-                                // Ordinal position of this ad on the page
-                                if(typeof _gnTile === "number") {
-                                    ++_gnTile;
-                                } else {
-                                    var _gnTile = 1;
-                                }
-                        
-                        		
-                            // Ad source
-                                var _gnSrc = "http://n4403ad.doubleclick.net/adj/gn.marvel.com/news;sect=news;sz=300x250;mtfInline=true;tile=2" + _gnTile + ";ord=" + _gnOrd;
-                                document.write(unescape(
-                                    "%3Cscript type='text/javascript' src='" + _gnSrc + "'%3E%3C/script%3E"
-                                ));
-                        
-                        	    // ]]>
-                        
-                            </script>
-                        </div>
-                        </div>
-                                    </div>
                                     <section class="sticky-icky" data-stickyicky-elem="somename">
                                         <aside class="sidebar ">
                                         	<h2 class="module-header"><a href="/news/group/261/infinite_comics" class="see-all">See All</a>MORE IN Infinite Comics</h2>
@@ -696,7 +668,7 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         <html><body><p>Today, S.H.I.E.L.D. dispatches Captain America, Black Widow and Agent Rumlow to reclaim the mysterious &ldquo;Zodiac&rdquo; device at any cost. Tensions run high with the threat of terrorist reprisal in downtown Chicago, but Cap remains just as unnerved by his own handlers and their refusal to divulge the true nature of the weapon. What does Zodiac do and why does S.H.I.E.L.D. want it?</p>
                         <p>Written by Peter David, with layouts by Daniel Govar and art by Rock-He Kim, the CAPTAIN AMERICA: THE WINTER SOLDIER PRELUDE Infinite Comic&mdash;<a href="http://comicstore.marvel.com/Marvels-Captain-America-The-Winter-Soldier-Infinite-Comic-1/digital-comic/32593" target="blank">available now</a>&mdash;bridges a divide in the Marvel Cinematic Universe. Editors Bill Rosemann and Emily Show worked closely with Marvel Studios to highlight an especially stormy period just prior to the events of April&rsquo;s &ldquo;Captain America: The Winter Soldier&rdquo; film. Rosemann then tapped David, who previously adapted &ldquo;Captain America: The First Avenger&rdquo; as a comic, to headline this latest project.</p>
                         <p>Here, David explores a key theme of Steve Rogers&rsquo; cinematic journey: the evolution of his patriotic zeal, from the scrappy young man bent on joining the war effort to a more thoughtful leader ever mindful of his minders. The hunt for the Zodiac device leaves Captain America all the more concerned about the intentions behind his marching orders. That not everyone under his command shares those concerns makes for a compelling ensemble piece.</p>
-                        <p>	<div class="JCGallery no-stripes" id="gallery1">
+                        <p>	<div class="JCGallery no-stripes" id="gallery">
                             <div class="JCGallery_slides">
                                 <div class="grid-container">
                                     <div class="top-controls">
@@ -744,7 +716,7 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         
                                 var jsonPath = window.location.origin + secondPartOfUrl + 'dynamic/' + '21840/',
                                     gallery = new JCGallery(),
-                                    $el = $('#gallery1'),
+                                    $el = $('#gallery'),
                                     totalCount = '',
                                     $theGridContainer = $('.device_LARGE .JCGallery_slides .grid-container');
                                     window.gallery = gallery;
@@ -1020,11 +992,11 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         
                                       </div>
                                       <div class="featured-item-desc">
-                                        <p data-blurb="1819">
+                                        <p data-blurb="1818">
                         	Captain America returns to theaters April 4, 2014!
                         	
                         </p>
-                        <p data-blurb="1819" style="display:none">
+                        <p data-blurb="1818" style="display:none">
                          	Captain America returns to theaters April 4, 2014!
                         	
                         </p>
@@ -1449,7 +1421,7 @@ document.write('<iframe src="http://3944448.fls.doubleclick.net/activityi;src=39
                         
                         <div class="searchbg"></div>
                         <div>
-                          <input type="text" name="q" class="txtSearch"  tabindex="1" placeholder="SEARCH" >
+                          <input type="search" name="q" class="txtSearch"  tabindex="1" placeholder="SEARCH" >
                           <select name="category" class="marvel_search_select ">
                               <option value="All" selected>All</option>
                               <option value="comics" >Comics</option>
@@ -1612,181 +1584,7 @@ var google_conversion_value = 0;
 </noscript>
 </div>
 
-      <style type="text/css"><!--
-    .red-btn-gradient{
-        color:#fff;
-        background: #d00501; /* Old browsers */
-        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2QwMDUwMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjM5JSIgc3RvcC1jb2xvcj0iI2JjMDUwMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc5JSIgc3RvcC1jb2xvcj0iI2EyMDMwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5YzAyMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-        background: -moz-linear-gradient(top,  #d00501 0%, #bc0501 39%, #a20300 79%, #9c0200 100%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#d00501), color-stop(39%,#bc0501), color-stop(79%,#a20300), color-stop(100%,#9c0200)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(top,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* IE10+ */
-        background: linear-gradient(to bottom,  #d00501 0%,#bc0501 39%,#a20300 79%,#9c0200 100%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d00501', endColorstr='#9c0200',GradientType=0 ); /* IE6-8 */
-        margin-left:15px;
-            box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
-        -webkit-box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
-        -moz-box-shadow:inset 0px 1px 0px 0px rgba(251, 97, 95, .8);
-        border: 1px solid #9d0300;
-        text-shadow: 2px 2px 2px #5B0100;
-      }
-    
-    
-      .grey-btn-gradient{
-        color:#fff;
-        background: #acacac; /* Old browsers */
-        /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-        background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2FjYWNhYyIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjIyJSIgc3RvcC1jb2xvcj0iIzlmOWY5ZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9Ijc4JSIgc3RvcC1jb2xvcj0iIzZkNmQ2ZCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM1ZjVlNWUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-        background: -moz-linear-gradient(top,  #acacac 0%, #9f9f9f 22%, #6d6d6d 78%, #5f5e5e 100%); /* FF3.6+ */
-        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#acacac), color-stop(22%,#9f9f9f), color-stop(78%,#6d6d6d), color-stop(100%,#5f5e5e)); /* Chrome,Safari4+ */
-        background: -webkit-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* Chrome10+,Safari5.1+ */
-        background: -o-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* Opera 11.10+ */
-        background: -ms-linear-gradient(top,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* IE10+ */
-        background: linear-gradient(to bottom,  #acacac 0%,#9f9f9f 22%,#6d6d6d 78%,#5f5e5e 100%); /* W3C */
-        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#acacac', endColorstr='#5f5e5e',GradientType=0 ); /* IE6-8 */
-        box-shadow:inset 0px 1px 0px 0px #ededed;
-        -webkit-box-shadow:inset 0px 1px 0px 0px #ededed;
-        -moz-box-shadow:inset 0px 1px 0px 0px #ededed;
-        border: 1px solid #616161;
-        text-shadow: 2px 2px 2px #1d1d1d;
-      }
-      a.change-reader-btn{
-       
-        border-radius: 4px;
-        font-family:'RobotoCondensed', Arial, sans-serif;
-        font-weight: bold;
-        text-decoration:none;
-        display: inline-block;
-        cursor:pointer;
-      }
-    
-    
-      .change-reader-btn{
-      	padding:14px 10px;
-      	text-align: center;
-      	font-size: 16px;
-      }
-    
-    
-    #mdcu-reader-modal{
-    	color: white;
-    	width: 1000px;
-    	clear: both;
-    	float: left;
-    	position: relative;
-    	z-index: 1000000;
-    
-    }  
-    .mdcu-reader-modal-gradient{
-    	background: #292929; /* Old browsers */
-    	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-    	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI5MjkyOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjU4JSIgc3RvcC1jb2xvcj0iIzA2MDYwNiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjczJSIgc3RvcC1jb2xvcj0iIzAwMDAwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-    	background: -moz-linear-gradient(top,  #292929 0%, #060606 58%, #000000 73%, #000000 100%); /* FF3.6+ */
-    	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#292929), color-stop(58%,#060606), color-stop(73%,#000000), color-stop(100%,#000000)); /* Chrome,Safari4+ */
-    	background: -webkit-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* Chrome10+,Safari5.1+ */
-    	background: -o-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* Opera 11.10+ */
-    	background: -ms-linear-gradient(top,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* IE10+ */
-    	background: linear-gradient(to bottom,  #292929 0%,#060606 58%,#000000 73%,#000000 100%); /* W3C */
-    	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#292929', endColorstr='#000000',GradientType=0 ); /* IE6-8 */
-    
-    }
-    .mdcu-reader-modal-pitch p, .mdcu-reader-modal-pitch ul, .mdcu-reader-modal-pitch li{
-    	color: white;
-    	text-align: left;
-    
-    }
-    .mdcu-reader-modal-pitch p{
-    	font-size: 14px;
-    	margin:1em 0;
-    }
-    .mdcu-reader-modal-pitch ul{
-    	list-style-type: disc;
-    	padding-left: 40px;
-    	margin: 1em 0;
-    }
-    .mdcu-reader-modal-pitch{
-    	float:left;
-    	width:60%;
-    
-    }
-    .mdcu-reader-modal-devices{
-    	float:right;
-    
-    }
-    .mdcu-reader-modal-wrap{
-    	float: left;
-    	padding:30px 5% 15px 5%;
-    
-    }
-    .change-reader-buttons{
-    	float: right;
-    	margin-right:5%;
-    	margin-bottom: 30px;
-    
-    }
-    h3.mdcu-reader-modal-title{
-    	text-transform: uppercase;
-    	color: white;
-    	text-align: left;
-    	font-size: 30px;
-    	margin-bottom: 1em 0;
-    }
-    
-    #mdcu-reader-modal-wrapper{
-    	position: absolute;
-    	top: 35%;
-    	left: 24%;
-    }
-    
-    .mdcu-reader-modal-pitch p.disclaimer{
-    	font-size: 10px;
-    }
-    
-    #mdcu-reader-modal .legal-disclaimer { 
-        
-    
-    }
-    
-    #mdcu-reader-modal p.disclaimer{
-    color: #DDD;
-    }
-    
-    #mdcu-reader-modal .legal-disclaimer{
-    
-    float: left;
-    text-align: left;
-    }
-    
-    #mdcu-reader-modal .disclaimer a {
-    color: #D30000
-    }
-    --></style>
-    <div id="mdcu-reader-modal-wrapper" style="display: none;">
-    <div id="mdcu-reader-modal" class="mdcu-reader-modal-gradient">
-    <div class="mdcu-reader-modal-wrap">
-    <div class="mdcu-reader-modal-pitch">
-    <h3 class="mdcu-reader-modal-title">TRY OUR NEW COMIC READER BETA!</h3>
-    <p>As a valued Marvel Digital Comics Unlimited subscriber, be one of the first to try our new Beta reader, and tell us what you think using the "Help/Feedback" button at the top of the Reader!</p>
-    <p><strong>What's new and improved?</strong></p>
-    <ul>
-    <li>New! Read digital comics on your iPhone, iPad and iPod touch through your mobile browser</li>
-    <li>New! Redesigned navigation and reading experience</li>
-    <li>New! Smart Panels experience</li>
-    </ul>
-    </div>
-    <div class="mdcu-reader-modal-devices"><img src="http://i.annihil.us/u/prod/marvel/msc/devices-modal.png" /></div>
-    <div class="legal-disclaimer">
-    <p class="disclaimer"><span style="font-weight: bold;">Disclaimer</span></p>
-    <br />
-    <p class="disclaimer">YOU ACKNOWLEDGE THAT THE MARVEL DIGITAL COMICS UNLIMITED BETA READER ("BETA READER") IS A PRE-RELEASE PRODUCT, AND AS SUCH, THE BETA READER MAY WELL CONTAIN ERRORS AND DEFECTS AND IS NOT A FINAL PRODUCT. THE BETA READER IS PROVIDED "AS IS" WITHOUT ANY EXPRESS OR IMPLIED WARRANTY OF ANY KIND.</p>
-    <p class="disclaimer">By using the Beta Reader, you understand and agree to the Marvel Digital Comics Unlimited <a href="http://marvel.com/corporate/mdcu-terms" title="Terms of Use">Terms of Use</a> (including the Automatic Renewal Program), and to the Marvel.com <a href="http://marvel.com/corporate/terms" title="Terms and Conditions">Terms and Conditions</a> and <a href="http://marvel.com/corporate/privacy" title="Privacy Policy">Privacy Policy</a>.  Marvel may, in its sole discretion for any reason and at any time during this beta period, terminate access to the Beta Reader without notice or liability.</p>
-    </div>
-    </div>
-    <div class="change-reader-buttons"><a class="change-reader-btn grey-btn-gradient" id="cont-old-reader" title="Continue with Existing Reader">Continue with Existing Reader</a> <a class="change-reader-btn red-btn-gradient" id="try-new-reader" title="Try the New Comic Reader">Try the New Comic Reader</a></div>
-    </div>
-    </div>
+<!-- nomdcu no cookie -->
 
         <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_global_foot_default_977e4c4ca6f68a7bbb32fb1351ed79b002fc9da9.js"></script>
         <script type="text/javascript" src="http://i.annihil.us/u/prod/marvel/s/js/responsive_v7_news_foot_default_2d67382d4ed6c0d60243f10407dace7d52a8297f.js"></script>
